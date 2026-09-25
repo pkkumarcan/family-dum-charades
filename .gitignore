@@ -1,0 +1,13 @@
+# Dependencies & OS files
+.DS_Store
+Thumbs.db
+node_modules/
+*.log
+scratch/
+scratch_fetch.py
+inspect_sheet.py
+find_tabs.py
+extract_all_prompts.py
+supplement_categories.py
+sheet_page.html
+full_sheet.html

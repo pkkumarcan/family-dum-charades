@@ -1,0 +1,449 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
+  <title>Family Dum Charades</title>
+  <meta name="description" content="Mobile-first, touch-friendly Dum Charades party game for iPhone and family gatherings.">
+
+  <!-- iOS & PWA Meta Tags -->
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="Dum Charades">
+  <meta name="theme-color" content="#0d1117">
+
+  <link rel="manifest" href="./manifest.json">
+  <link rel="apple-touch-icon" href="./icons/apple-touch-icon.png">
+  <link rel="icon" type="image/png" href="./icons/icon-192.png">
+
+  <!-- Google Fonts: Outfit for clean modern readability -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="./css/styles.css">
+</head>
+<body>
+  <div id="app-container">
+    
+    <!-- Top Global Header -->
+    <header class="app-header">
+      <div class="brand-badge">
+        <span class="brand-icon">🎭</span>
+        <span class="brand-title">Dum Charades</span>
+      </div>
+      <div class="header-actions">
+        <span id="offline-status" class="status-pill">
+          <span class="status-dot"></span> Ready
+        </span>
+        <button id="btn-open-history" class="icon-btn" aria-label="Game History" title="History">📜</button>
+        <button id="btn-open-settings" class="icon-btn" aria-label="Settings" title="Settings">⚙️</button>
+      </div>
+    </header>
+
+    <!-- =========================================================================
+         SCREEN 1: START / SETUP (Streamlined iPhone UX)
+         ========================================================================= -->
+    <section id="screen-start" class="screen active" aria-label="Start Game Screen">
+      <div class="start-content-scroll">
+        
+        <!-- Hero & Bank Stats -->
+        <div class="hero-card">
+          <h1 style="font-size: 1.35rem; font-weight: 800; margin-bottom: 2px;">Family Dum Charades</h1>
+          <p class="hero-tagline">Pass the phone, act it out, have fun!</p>
+          <div class="stats-bar">
+            <div class="stat-item">
+              <span id="stat-eligible" class="stat-val">--</span>
+              <span class="stat-lbl">Available</span>
+            </div>
+            <div class="stat-item">
+              <span id="stat-used" class="stat-val">--</span>
+              <span class="stat-lbl">Played</span>
+            </div>
+            <div class="stat-item">
+              <span id="stat-bank-total" class="stat-val">--</span>
+              <span class="stat-lbl">Total Bank</span>
+            </div>
+          </div>
+        </div>
+
+        <!-- Exhausted Notice if cards run out -->
+        <div id="exhausted-notice" class="exhausted-notice">
+          ⚠️ <strong>All eligible prompts have been used!</strong><br>
+          Tap the button below to reset used prompts or adjust your filters.
+        </div>
+
+        <!-- Category Selection Card (Clean & uncluttered) -->
+        <div class="filter-card">
+          <div class="filter-card-header">
+            <div>
+              <div class="filter-title">Category</div>
+              <div id="category-summary-text" class="filter-subtitle">All Categories (19)</div>
+            </div>
+            <button id="btn-open-categories" class="btn-chip-action" type="button">
+              📂 Choose
+            </button>
+          </div>
+        </div>
+
+        <!-- Difficulty Selection -->
+        <div class="filter-section">
+          <div class="filter-title">Difficulty</div>
+          <div class="difficulty-selector" role="group" aria-label="Difficulty Selection">
+            <button class="diff-btn active" data-diff="All" type="button">All</button>
+            <button class="diff-btn" data-diff="Medium" type="button">Medium</button>
+            <button class="diff-btn" data-diff="Medium-Hard" type="button">Med-Hard</button>
+            <button class="diff-btn" data-diff="Hard" type="button">Hard</button>
+          </div>
+        </div>
+
+        <!-- Surprise Me Mode Toggle -->
+        <label class="surprise-card" for="toggle-surprise-me">
+          <div class="surprise-left">
+            <span style="font-size: 1.35rem;">✨</span>
+            <div>
+              <div class="surprise-title">Surprise Me Mode</div>
+              <div class="surprise-desc">Randomize all categories & difficulties</div>
+            </div>
+          </div>
+          <div class="toggle-switch">
+            <input type="checkbox" id="toggle-surprise-me">
+            <span class="toggle-slider"></span>
+          </div>
+        </label>
+
+      </div>
+
+      <!-- Start Action Button -->
+      <div class="btn-container-fixed">
+        <button id="btn-give-prompt" class="btn btn-primary" type="button">
+          🎲 Give Me a Prompt
+        </button>
+      </div>
+    </section>
+
+
+    <!-- =========================================================================
+         SCREEN 2: PRIVATE PROMPT (Privacy Shield & Reveal)
+         ========================================================================= -->
+    <section id="screen-prompt-private" class="screen" aria-label="Private Prompt Screen">
+      
+      <!-- Privacy Shield (Hidden before player taps reveal) -->
+      <div id="privacy-shield" class="privacy-shield-container">
+        <div class="privacy-eye-icon">🙈</div>
+        <h2 class="privacy-notice-title">Secret Turn</h2>
+        <p class="privacy-notice-sub">Make sure nobody else can see your screen before revealing.</p>
+        <button id="btn-reveal-prompt" class="btn btn-gold" style="width: 100%; max-width: 320px; margin-top: 10px;" type="button">
+          👁️ Reveal My Prompt
+        </button>
+      </div>
+
+      <!-- Revealed Prompt View -->
+      <div id="revealed-prompt-box" class="privacy-shield-container" style="display: none; justify-content: space-between;">
+        <div style="width: 100%; display: flex; justify-content: space-between; align-items: center;">
+          <span style="font-size: 0.8rem; color: var(--text-muted); font-weight: 600;">🔒 PRIVATE VIEW</span>
+          <span id="revealed-diff-badge" class="prompt-diff-badge">Medium</span>
+        </div>
+
+        <div class="prompt-card">
+          <div class="prompt-category-badge">
+            <span id="revealed-cat-icon">🎬</span>
+            <span id="revealed-cat-name">Bollywood</span>
+          </div>
+          <div id="revealed-prompt-text" class="prompt-text">
+            Prompt Name
+          </div>
+        </div>
+
+        <div class="btn-container-fixed" style="width: 100%;">
+          <button id="btn-start-prep" class="btn btn-primary" type="button">
+            ⏱️ Start Preparation
+          </button>
+          <div class="btn-row">
+            <button id="btn-skip-prompt" class="btn btn-skip" type="button">
+              ⏭️ Skip
+            </button>
+            <button id="btn-back-to-start" class="btn btn-ghost" type="button">
+              ↩️ Back
+            </button>
+          </div>
+        </div>
+      </div>
+
+    </section>
+
+
+    <!-- =========================================================================
+         SCREEN 3: PREPARATION COUNTDOWN
+         ========================================================================= -->
+    <section id="screen-preparation" class="screen" aria-label="Preparation Screen">
+      <div class="prep-stage">
+        
+        <div class="prompt-category-badge">
+          <span id="prep-cat-icon">🎬</span>
+          <span id="prep-cat-name">Category</span>
+        </div>
+
+        <div class="prompt-card" style="min-height: 130px; padding: 16px;">
+          <div id="prep-prompt-text" class="prompt-text" style="font-size: 1.35rem;">
+            Prompt Name
+          </div>
+        </div>
+
+        <!-- Circular Countdown Timer -->
+        <div class="timer-circle-wrapper">
+          <svg class="timer-svg" viewBox="0 0 160 160">
+            <circle class="timer-bg-circle" cx="80" cy="80" r="65"></circle>
+            <circle id="prep-circle-progress" class="timer-progress-circle" cx="80" cy="80" r="65"></circle>
+          </svg>
+          <span id="prep-timer-number" class="timer-number-display">30</span>
+        </div>
+
+        <div class="timer-sublabel">Preparation Time</div>
+      </div>
+
+      <div class="btn-container-fixed">
+        <button id="btn-prep-ready" class="btn btn-success" type="button">
+          🎭 I'm Ready to Act!
+        </button>
+        <button id="btn-prep-skip" class="btn btn-skip" type="button">
+          ⏭️ Skip This Prompt
+        </button>
+      </div>
+    </section>
+
+
+    <!-- =========================================================================
+         SCREEN 4: ACTING (PROMPT HIDDEN)
+         ========================================================================= -->
+    <section id="screen-acting" class="screen" aria-label="Acting Screen">
+      <div class="acting-stage">
+        <div class="acting-hero-box">
+          <span class="acting-icon">🎭</span>
+          <h2 class="acting-title">ACT NOW!</h2>
+          <p class="acting-instruction">No talking or lip-syncing. Mime it out!</p>
+          
+          <div class="acting-timer-bar-wrapper">
+            <div id="acting-timer-bar" class="acting-timer-bar-fill"></div>
+          </div>
+          <span id="acting-timer-text" class="acting-timer-text">1:00</span>
+        </div>
+      </div>
+
+      <div class="btn-container-fixed">
+        <div class="btn-row">
+          <button id="btn-acting-correct" class="btn btn-success" type="button">
+            ✅ Correct!
+          </button>
+          <button id="btn-acting-pass" class="btn btn-skip" type="button">
+            ⏭️ Pass / Skip
+          </button>
+        </div>
+        <button id="btn-acting-peek" class="btn btn-ghost" type="button">
+          👁️ Show Prompt Again
+        </button>
+      </div>
+    </section>
+
+
+    <!-- =========================================================================
+         SCREEN 5: NEXT PLAYER HANDOFF (Zero Prompt Text in Visible DOM)
+         ========================================================================= -->
+    <section id="screen-next-player" class="screen" aria-label="Next Player Handoff Screen">
+      <div class="handoff-stage">
+        <div class="phone-pass-icon">📱</div>
+        <h2 class="handoff-title">Pass the Phone</h2>
+        <p class="handoff-sub">Hand the phone over to the next player for their secret prompt.</p>
+
+        <div class="round-stats-card">
+          <div class="stat-item">
+            <span id="handoff-played" class="stat-val">0</span>
+            <span class="stat-lbl">Played</span>
+          </div>
+          <div class="stat-item">
+            <span id="handoff-correct" class="stat-val" style="color: var(--color-success)">0</span>
+            <span class="stat-lbl">Correct</span>
+          </div>
+          <div class="stat-item">
+            <span id="handoff-passed" class="stat-val" style="color: var(--accent-gold)">0</span>
+            <span class="stat-lbl">Passed</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="btn-container-fixed">
+        <button id="btn-next-prompt" class="btn btn-primary" type="button">
+          🎲 Next Prompt
+        </button>
+        <button id="btn-handoff-menu" class="btn btn-ghost" type="button">
+          🏠 Main Menu / Change Filters
+        </button>
+      </div>
+    </section>
+
+  </div>
+
+
+  <!-- =========================================================================
+       CATEGORY CHECKLIST MODAL
+       ========================================================================= -->
+  <div id="modal-categories" class="modal-overlay" role="dialog" aria-modal="true" aria-label="Category Selection Modal">
+    <div class="modal-sheet">
+      <div class="modal-header">
+        <h3 class="modal-title">📂 Choose Categories</h3>
+        <button id="btn-close-categories" class="icon-btn" aria-label="Close Categories">✕</button>
+      </div>
+
+      <div class="modal-actions-bar">
+        <button id="btn-select-all-cats" class="btn-text-action" type="button">Select All</button>
+        <button id="btn-clear-all-cats" class="btn-text-action" type="button">Clear All</button>
+      </div>
+
+      <div id="categories-checklist" class="modal-content-scroll checklist-container">
+        <!-- Rendered dynamically -->
+      </div>
+
+      <div style="padding-top: 10px;">
+        <button id="btn-apply-categories" class="btn btn-primary" style="min-height: 48px;" type="button">
+          Done
+        </button>
+      </div>
+    </div>
+  </div>
+
+
+  <!-- =========================================================================
+       PEEK MODAL (Secret Prompt Reminder during acting)
+       ========================================================================= -->
+  <div id="modal-peek" class="peek-sheet" role="dialog" aria-modal="true" aria-label="Prompt Peek">
+    <div style="width: 100%; max-width: 360px; display: flex; flex-direction: column; gap: 16px;">
+      <div class="prompt-card">
+        <div class="prompt-category-badge">
+          <span id="peek-cat-icon">🎬</span>
+          <span id="peek-cat-name">Category</span>
+        </div>
+        <div id="peek-prompt-text" class="prompt-text">
+          <!-- Populated only while modal is open -->
+        </div>
+      </div>
+      <button id="btn-close-peek" class="btn btn-gold" type="button">
+        🙈 Hide & Resume Acting
+      </button>
+    </div>
+  </div>
+
+
+  <!-- =========================================================================
+       SETTINGS MODAL
+       ========================================================================= -->
+  <div id="modal-settings" class="modal-overlay" role="dialog" aria-modal="true" aria-label="Settings Modal">
+    <div class="modal-sheet">
+      <div class="modal-header">
+        <h3 class="modal-title">⚙️ Game Settings</h3>
+        <button id="btn-close-settings" class="icon-btn" aria-label="Close Settings">✕</button>
+      </div>
+
+      <div class="modal-content-scroll">
+        <div class="setting-row">
+          <div class="setting-label-block">
+            <span class="setting-label">Preparation Timer</span>
+            <span class="setting-desc">Time to think before acting</span>
+          </div>
+          <select id="setting-prep-time" class="setting-select">
+            <option value="15">15 sec</option>
+            <option value="30">30 sec</option>
+            <option value="45">45 sec</option>
+            <option value="60">60 sec</option>
+          </select>
+        </div>
+
+        <div class="setting-row">
+          <div class="setting-label-block">
+            <span class="setting-label">Acting Timer</span>
+            <span class="setting-desc">Time limit for guessing</span>
+          </div>
+          <select id="setting-acting-time" class="setting-select">
+            <option value="45">45 sec</option>
+            <option value="60">60 sec</option>
+            <option value="90">90 sec</option>
+            <option value="120">120 sec</option>
+          </select>
+        </div>
+
+        <div class="setting-row">
+          <div class="setting-label-block">
+            <span class="setting-label">Sound Effects</span>
+            <span class="setting-desc">Timer beeps & alerts</span>
+          </div>
+          <div class="toggle-switch">
+            <input type="checkbox" id="setting-sound">
+            <span class="toggle-slider"></span>
+          </div>
+        </div>
+
+        <div class="setting-row">
+          <div class="setting-label-block">
+            <span class="setting-label">Vibration Haptics</span>
+            <span class="setting-desc">Tactile buzz on countdown pulse</span>
+          </div>
+          <div class="toggle-switch">
+            <input type="checkbox" id="setting-vibration">
+            <span class="toggle-slider"></span>
+          </div>
+        </div>
+
+        <div class="setting-row">
+          <div class="setting-label-block">
+            <span class="setting-label">Return Skipped Prompts</span>
+            <span class="setting-desc">Allow skipped cards to appear again later</span>
+          </div>
+          <div class="toggle-switch">
+            <input type="checkbox" id="setting-skip-return">
+            <span class="toggle-slider"></span>
+          </div>
+        </div>
+
+        <div style="padding-top: 10px; display: flex; flex-direction: column; gap: 8px;">
+          <button id="btn-reset-used-prompts" class="btn btn-skip" style="min-height: 44px; font-size: 0.95rem;" type="button">
+            🔄 Reset Used Prompts
+          </button>
+          <button id="btn-reset-all-data" class="btn btn-danger" style="min-height: 44px; font-size: 0.95rem;" type="button">
+            🗑️ Reset All Data & Settings
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+  <!-- =========================================================================
+       HISTORY MODAL
+       ========================================================================= -->
+  <div id="modal-history" class="modal-overlay" role="dialog" aria-modal="true" aria-label="Game History Modal">
+    <div class="modal-sheet">
+      <div class="modal-header">
+        <h3 class="modal-title">📜 Game History</h3>
+        <button id="btn-close-history" class="icon-btn" aria-label="Close History">✕</button>
+      </div>
+
+      <div class="modal-content-scroll">
+        <div id="history-list" class="history-list">
+          <!-- Rendered dynamically -->
+        </div>
+
+        <div style="padding-top: 10px;">
+          <button id="btn-clear-history" class="btn btn-danger" style="min-height: 44px; font-size: 0.95rem;" type="button">
+            🗑️ Clear History
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Modular Scripts with strictly relative paths -->
+  <script src="./js/storage.js"></script>
+  <script src="./js/audio.js"></script>
+  <script src="./js/game.js"></script>
+  <script src="./js/app.js"></script>
+</body>
+</html>
