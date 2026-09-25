@@ -75,6 +75,13 @@ const StorageManager = {
   },
 
   /**
+   * Get settings object directly
+   */
+  getSettings() {
+    return this.loadPersistedState().settings || DEFAULT_SETTINGS;
+  },
+
+  /**
    * Save full state or partial updates
    */
   savePersistedState(state) {

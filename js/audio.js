@@ -9,6 +9,16 @@ class AudioManager {
     this.initialized = false;
   }
 
+  getSettings() {
+    if (window.GameEngine && window.GameEngine.state && window.GameEngine.state.settings) {
+      return window.GameEngine.state.settings;
+    }
+    if (window.StorageManager && typeof window.StorageManager.loadPersistedState === 'function') {
+      return window.StorageManager.loadPersistedState().settings;
+    }
+    return { soundEnabled: true, vibrationEnabled: true };
+  }
+
   init() {
     if (this.initialized) return;
     try {
@@ -33,7 +43,7 @@ class AudioManager {
    * Short countdown tick (e.g. 3, 2, 1)
    */
   playTick() {
-    const settings = window.StorageManager ? window.StorageManager.getSettings() : { soundEnabled: true, vibrationEnabled: true };
+    const settings = this.getSettings();
     if (!settings.soundEnabled) return;
 
     try {
@@ -65,7 +75,7 @@ class AudioManager {
    * Final alert sound when timer reaches 0 ("Ready to Act" or "Time's Up")
    */
   playTimeUp() {
-    const settings = window.StorageManager ? window.StorageManager.getSettings() : { soundEnabled: true, vibrationEnabled: true };
+    const settings = this.getSettings();
     if (!settings.soundEnabled) return;
 
     try {
@@ -100,7 +110,7 @@ class AudioManager {
    * Success chime for Correct guess
    */
   playSuccess() {
-    const settings = window.StorageManager ? window.StorageManager.getSettings() : { soundEnabled: true, vibrationEnabled: true };
+    const settings = this.getSettings();
     if (!settings.soundEnabled) return;
 
     try {
@@ -135,7 +145,7 @@ class AudioManager {
    * Pass / Skip tone
    */
   playPass() {
-    const settings = window.StorageManager ? window.StorageManager.getSettings() : { soundEnabled: true, vibrationEnabled: true };
+    const settings = this.getSettings();
     if (!settings.soundEnabled) return;
 
     try {
@@ -170,7 +180,7 @@ class AudioManager {
    * @param {number|number[]} pattern 
    */
   vibrate(pattern) {
-    const settings = window.StorageManager ? window.StorageManager.getSettings() : { vibrationEnabled: true };
+    const settings = this.getSettings();
     if (!settings.vibrationEnabled) return;
 
     if ('vibrate' in navigator) {
