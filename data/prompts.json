@@ -1,1577 +1,4346 @@
 [
   {
-    "id": "idba-001",
+    "id": "fusi-001",
     "category": "Funny Situations",
     "prompt": "Cutting onions and trying not to cry",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Chopping, eyes watering, wiping tears"
   },
   {
-    "id": "idba-002",
+    "id": "fusi-002",
     "category": "Funny Situations",
     "prompt": "Tired after a very long drive",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Steering, yawning, stiff back, sleepy eyes"
   },
   {
-    "id": "idba-003",
+    "id": "fusi-003",
     "category": "Funny Situations",
     "prompt": "Listening to nonstop gossip and getting a headache",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Listening, shock, irritation, holding head"
   },
   {
-    "id": "idba-004",
+    "id": "fusi-004",
     "category": "Funny Situations",
     "prompt": "Eating something extremely spicy but pretending you are fine",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Eating, burning mouth, sweating, fake smile"
   },
   {
-    "id": "idba-005",
+    "id": "fusi-005",
     "category": "Funny Situations",
     "prompt": "Trying to open a stubborn jar in front of everyone",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Twisting, struggling, changing grip, embarrassment"
   },
   {
-    "id": "idba-006",
+    "id": "fusi-006",
     "category": "Funny Situations",
     "prompt": "Falling asleep while watching TV and denying it",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Nodding off, waking suddenly, denying sleep"
   },
   {
-    "id": "idba-007",
+    "id": "fusi-007",
     "category": "Funny Situations",
     "prompt": "Carrying all the grocery bags in one trip",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Overloaded arms, dropping things, struggling with door"
   },
   {
-    "id": "idba-008",
+    "id": "fusi-008",
     "category": "Funny Situations",
     "prompt": "Trying not to laugh during a serious moment",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Holding laughter, looking away, losing control"
   },
   {
-    "id": "idba-009",
+    "id": "fusi-009",
     "category": "Funny Situations",
     "prompt": "Stepping on something painful barefoot",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Maybe",
+    "actingHint": "Walking, sudden pain, hopping around"
   },
   {
-    "id": "idba-010",
+    "id": "fusi-010",
     "category": "Funny Situations",
     "prompt": "Phone falling on your face while lying in bed",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Scrolling, dropping phone, sudden shock/pain"
   },
   {
-    "id": "idba-011",
+    "id": "fusi-011",
     "category": "Funny Situations",
     "prompt": "Looking for your glasses while they are on your head",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Searching everywhere, frustration, realization"
   },
   {
-    "id": "idba-012",
+    "id": "fusi-012",
     "category": "Funny Situations",
     "prompt": "Getting caught taking food from the fridge at midnight",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Sneaking, eating, hearing someone, freezing"
   },
   {
-    "id": "idba-013",
+    "id": "fusi-013",
     "category": "Funny Situations",
     "prompt": "Trying to kill a mosquito while sleeping",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Sleeping, hearing buzzing, slapping, hunting"
   },
   {
-    "id": "idba-014",
+    "id": "fusi-014",
     "category": "Funny Situations",
     "prompt": "Taking a family photo where nobody cooperates",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Arranging people, posing, correcting everyone, frustration"
   },
   {
-    "id": "idba-015",
+    "id": "fusi-015",
     "category": "Funny Situations",
     "prompt": "Trying to quietly open a noisy snack packet",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Sneaking, slowly opening, sudden noise, freezing"
   },
   {
-    "id": "idba-016",
+    "id": "fusi-016",
     "category": "Funny Situations",
     "prompt": "Walking confidently and realizing you are going the wrong way",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Confident walk, confusion, discreet U-turn"
   },
   {
-    "id": "idba-017",
+    "id": "fusi-017",
     "category": "Funny Situations",
     "prompt": "Pretending you understand a complicated explanation",
     "difficulty": "Medium-Hard",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Listening, nodding seriously, confusion, fake confidence"
   },
   {
-    "id": "idba-018",
+    "id": "fusi-018",
     "category": "Funny Situations",
     "prompt": "Trying to remember why you walked into a room",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Entering, stopping, thinking, retracing steps"
   },
   {
-    "id": "idba-019",
+    "id": "fusi-019",
     "category": "Funny Situations",
     "prompt": "Guests suddenly arrive and you rush to hide the mess",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Panic, cleaning, hiding things, fixing appearance"
   },
   {
-    "id": "idba-020",
+    "id": "fusi-020",
     "category": "Funny Situations",
     "prompt": "Trying to take the perfect selfie while people keep interrupting",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Posing, interruption, irritation, retrying"
   },
   {
-    "id": "idba-021",
+    "id": "fusi-021",
     "category": "Funny Situations",
     "prompt": "Sneezing at the worst possible moment",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Maybe",
+    "actingHint": "Trying to hold sneeze, struggling, sudden sneeze, embarrassment"
   },
   {
-    "id": "idba-022",
+    "id": "fusi-022",
     "category": "Funny Situations",
     "prompt": "Trying to remember someone's name during an introduction",
     "difficulty": "Medium-Hard",
-    "status": "Keep"
+    "status": "Maybe",
+    "actingHint": "Greeting, thinking hard, awkward hesitation"
   },
   {
-    "id": "idba-023",
+    "id": "fusi-023",
     "category": "Funny Situations",
     "prompt": "Laughing politely even though you did not hear the joke",
     "difficulty": "Medium-Hard",
-    "status": "Keep"
+    "status": "Maybe",
+    "actingHint": "Listening, confusion, copying others' laughter"
   },
   {
-    "id": "idba-024",
+    "id": "fusi-024",
     "category": "Funny Situations",
     "prompt": "Testing hot food and burning your tongue, but refusing to spit it out",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Blowing on spoon, swallowing eagerly, sudden panic, breathing in and out rapidly with open mouth, fanning tongue"
   },
   {
-    "id": "idba-025",
+    "id": "fusi-025",
     "category": "Funny Situations",
     "prompt": "Trying to walk silently across a creaky floor late at night",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Tiptoeing slowly, stepping down, freezing in terror at a squeak, holding breath, balancing on one foot"
   },
   {
-    "id": "idba-026",
+    "id": "fusi-026",
     "category": "Funny Situations",
     "prompt": "Assembling flat-pack furniture and realizing a key piece is upside down",
     "difficulty": "Medium-Hard",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Confident screwing/hammering, admiring work, checking paper manual, double-take, head in hands"
   },
   {
-    "id": "idba-027",
+    "id": "fusi-027",
     "category": "Funny Situations",
     "prompt": "Getting caught singing and dancing in front of a mirror",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Using hairbrush as mic, dramatic hip moves, sudden freeze, sheepish hair fixing, looking away"
   },
   {
-    "id": "idba-028",
+    "id": "fusi-028",
     "category": "Funny Situations",
     "prompt": "Struggling to find the start of the sticky tape roll",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Holding tape roll, spinning it around, squinting, scraping repeatedly with fingernail, frustration"
   },
   {
-    "id": "idba-029",
+    "id": "fusi-029",
     "category": "Funny Situations",
     "prompt": "Carrying a cup of tea filled completely to the brim",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Both hands cupped, intense slow-motion walk, staring fixatedly at the cup, flinching at minor spills"
   },
   {
-    "id": "idba-030",
+    "id": "fusi-030",
     "category": "Funny Situations",
     "prompt": "Waving enthusiastically at someone who was waving to the person behind you",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Big two-handed wave, pointing, seeing them pass by, awkwardly turning wave into scratching head/neck"
   },
   {
-    "id": "idba-031",
+    "id": "fusi-031",
     "category": "Funny Situations",
     "prompt": "Trying to thread a needle with poor eyesight",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Squinting, licking thread, missing eye repeatedly, holding needle further and closer, celebrating"
   },
   {
-    "id": "idba-032",
+    "id": "fusi-032",
     "category": "Funny Situations",
     "prompt": "Putting on socks or shoes while standing on one foot and losing balance",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Hopping around on one leg, pulling shoe, wobbling wildly, windmilling arms to avoid falling"
   },
   {
-    "id": "idba-033",
+    "id": "fusi-033",
     "category": "Funny Situations",
     "prompt": "Trying to fold a fitted bedsheet neatly and giving up",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Stretching corners, tucking edges into each other, bunching up into an uneven ball, shoving into closet"
   },
   {
-    "id": "idba-034",
+    "id": "fusi-034",
     "category": "Funny Situations",
     "prompt": "Checking your breath when someone leans in close",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Cupping hand over mouth, discreet exhale, smelling palm, subtle recoil, quick search for mint/gum"
   },
   {
-    "id": "idba-035",
+    "id": "fusi-035",
     "category": "Funny Situations",
     "prompt": "Attempting to unlock your car only to realize it’s not your car",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Pressing fob, pulling door handle repeatedly, peering through window, sudden confusion, backing away"
   },
   {
-    "id": "idba-036",
+    "id": "fusi-036",
     "category": "Funny Situations",
     "prompt": "Tasting milk straight from the carton and realizing it’s spoiled",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Tilting head back, drinking, sudden freeze, dramatic grimace, sticking out tongue and wiping mouth"
   },
   {
-    "id": "idba-037",
+    "id": "fusi-037",
     "category": "Funny Situations",
     "prompt": "Walking through an invisible spiderweb",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Calm stroll, sudden face sticky-shock, frantic flailing, wiping face, brushing shoulders in panic"
   },
   {
-    "id": "idba-038",
+    "id": "fusi-038",
     "category": "Funny Situations",
     "prompt": "Trying to take off a tight, sweaty sweater or shirt and getting stuck",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Pulling shirt over head, arms stuck halfway, blinded by cloth, frantic muffled wriggling"
   },
   {
-    "id": "idba-039",
+    "id": "fusi-039",
     "category": "Funny Situations",
     "prompt": "Pretending to text while subtly eavesdropping on nearby drama",
     "difficulty": "Medium-Hard",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Tapping screen casually, eyes darting sideways, tilting ear, reacting to tea with eyebrow raises"
   },
   {
-    "id": "idba-040",
+    "id": "fusi-040",
     "category": "Funny Situations",
     "prompt": "Trying to remember a password after being locked out",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Typing confidently, rejection, trying variations, counting on fingers, frustration, sudden celebration"
   },
   {
-    "id": "idba-041",
+    "id": "fusi-041",
     "category": "Funny Situations",
     "prompt": "Arguing with GPS after missing the turn",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Driving calmly, hearing direction, missing turn, pointing angrily at imaginary GPS, dramatic U-turn"
   },
   {
-    "id": "idba-042",
+    "id": "fusi-042",
     "category": "Funny Situations",
     "prompt": "Trying to untangle wired earphones or a charging cable",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Pulling out tangled bundle, finding one knot after another, using teeth/fingers, brief hope, more tangles"
   },
   {
-    "id": "idba-043",
+    "id": "fusi-043",
     "category": "Funny Situations",
     "prompt": "Opening impossible plastic packaging",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Pulling at edges, using teeth, imaginary scissors, package suddenly bursting open, exhausted victory"
   },
   {
-    "id": "idba-044",
+    "id": "fusi-044",
     "category": "Funny Situations",
     "prompt": "Trying to put a duvet into its cover",
     "difficulty": "Medium-Hard",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Stuffing corners, crawling inside, shaking violently, getting trapped, emerging exhausted"
   },
   {
-    "id": "idba-045",
+    "id": "fusi-045",
     "category": "Funny Situations",
     "prompt": "Trying to catch something falling before it hits the floor",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Seeing object slip, frantic juggling motions, diving/reaching, almost saving it, disappointed stare"
   },
   {
-    "id": "idba-046",
+    "id": "fusi-046",
     "category": "Funny Situations",
     "prompt": "Realizing your phone is missing and then finding it in your hand",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Patting pockets, checking table, panic searching, looking at hand, embarrassed realization"
   },
   {
-    "id": "idba-047",
+    "id": "fusi-047",
     "category": "Funny Situations",
     "prompt": "Walking into a glass door you thought was open",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Confident walk, sudden impact, recoil, checking nose/forehead, pretending nobody saw"
   },
   {
-    "id": "idba-048",
+    "id": "fusi-048",
     "category": "Funny Situations",
     "prompt": "Trying to eat a very long string of noodles neatly",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Lifting noodles, slurping silently, noodles dangling, sauce splashing, desperate bite"
   },
   {
-    "id": "idba-049",
+    "id": "fusi-049",
     "category": "Funny Situations",
     "prompt": "Trying to take a group selfie with everyone inside the frame",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Stretching arm, squeezing people together, changing angle, someone missing, repeated retakes"
   },
   {
-    "id": "idba-050",
+    "id": "fusi-050",
     "category": "Funny Situations",
     "prompt": "Sitting on a chair that is much lower than expected",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Backing toward chair, lowering confidently, sudden drop, shocked face, struggling back up"
   },
   {
-    "id": "idba-051",
+    "id": "fusi-051",
     "category": "Funny Situations",
     "prompt": "Trying to get out of a beanbag gracefully",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Relaxed sitting, attempt to stand, sinking back, rolling sideways, finally crawling out"
   },
   {
-    "id": "idba-052",
+    "id": "fusi-052",
     "category": "Funny Situations",
     "prompt": "Trying to quietly leave a room while everyone is asleep",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Tiptoeing, avoiding obstacles, accidental noise, freezing, looking around, continuing slowly"
   },
   {
-    "id": "idba-053",
+    "id": "fusi-053",
     "category": "Funny Situations",
     "prompt": "Trying to swat a fly that keeps landing on your food",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Eating happily, noticing fly, shooing, repeated returns, increasingly wild swats, guarding plate"
   },
   {
-    "id": "idba-054",
+    "id": "fusi-054",
     "category": "Funny Situations",
     "prompt": "Getting shampoo in your eyes during a shower",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Washing hair, sudden eye sting, eyes squeezed shut, blindly searching for water/towel"
   },
   {
-    "id": "idba-055",
+    "id": "fusi-055",
     "category": "Funny Situations",
     "prompt": "Trying to put a fitted phone case on and accidentally pressing every button",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Aligning phone, forcing corners, volume/power surprises, screen lighting up, annoyed retry"
   },
   {
-    "id": "idba-056",
+    "id": "fusi-056",
     "category": "Funny Situations",
     "prompt": "Forgetting where you parked in a huge parking lot",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Walking confidently, scanning rows, pressing key fob, listening, changing direction repeatedly"
   },
   {
-    "id": "idba-057",
+    "id": "fusi-057",
     "category": "Funny Situations",
     "prompt": "Trying to carry a plate full of food through a crowded party",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Balancing plate, squeezing sideways, dodging people, near spill, protecting food heroically"
   },
   {
-    "id": "idba-058",
+    "id": "fusi-058",
     "category": "Funny Situations",
     "prompt": "Pretending a terrible gift is exactly what you wanted",
     "difficulty": "Medium-Hard",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Opening present eagerly, instant disappointment, forced huge smile, enthusiastic nodding and hugging"
   },
   {
-    "id": "idba-059",
+    "id": "fusi-059",
     "category": "Funny Situations",
     "prompt": "Trying to remove a price sticker that keeps tearing into tiny pieces",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Picking corner, tiny tear, repeated scratching, inspecting residue, growing frustration"
   },
   {
-    "id": "idba-060",
+    "id": "fusi-060",
     "category": "Funny Situations",
     "prompt": "Slipping on snow or black ice",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Walking carefully, sudden skid, windmilling arms, recovering dignity"
   },
   {
-    "id": "idba-061",
+    "id": "fusi-061",
     "category": "Funny Situations",
     "prompt": "Shoveling heavy snow from the driveway",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Lift heavy shovel, throw snow aside, backache, keep going"
   },
   {
-    "id": "idba-062",
+    "id": "fusi-062",
     "category": "Funny Situations",
     "prompt": "Scraping ice from a frozen car windshield",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Scrape hard, tiny clear patch, breathe on glass, scrape again"
   },
   {
-    "id": "idba-063",
+    "id": "fusi-063",
     "category": "Funny Situations",
     "prompt": "Car stuck in deep snow",
     "difficulty": "Medium-Hard",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Press gas, wheels spin, rock car, push from behind, frustration"
   },
   {
-    "id": "idba-064",
+    "id": "fusi-064",
     "category": "Funny Situations",
     "prompt": "Building a snowman and the head keeps falling off",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Roll snowballs, stack them, head drops, rebuild repeatedly"
   },
   {
-    "id": "idba-065",
+    "id": "fusi-065",
     "category": "Funny Situations",
     "prompt": "Watering the garden and the hose suddenly sprays you",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Water plants calmly, hose twists, sudden face spray, fight hose"
   },
   {
-    "id": "idba-066",
+    "id": "fusi-066",
     "category": "Funny Situations",
     "prompt": "Projector not connecting during a presentation",
     "difficulty": "Medium-Hard",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Plug cables, point at blank screen, restart laptop, panic as people wait"
   },
   {
-    "id": "idba-067",
+    "id": "fusi-067",
     "category": "Funny Situations",
     "prompt": "Carrying an oversized Costco purchase",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Push giant cart, lift huge package, struggle through doorway"
   },
   {
-    "id": "idba-068",
+    "id": "fusi-068",
     "category": "Funny Situations",
     "prompt": "Shopping cart with one bad wheel",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Push cart, wheel pulls sideways, correct direction repeatedly"
   },
   {
-    "id": "idba-069",
+    "id": "fusi-069",
     "category": "Funny Situations",
     "prompt": "Trying Costco free samples and going back for another round",
     "difficulty": "Medium-Hard",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Take tiny sample, love it, circle around, disguise yourself, return"
   },
   {
-    "id": "idba-070",
+    "id": "fusi-070",
     "category": "Funny Situations",
     "prompt": "Amazon delivery driver searching for the correct house",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Carry boxes, check phone/address, look at house numbers, take delivery photo"
   },
   {
-    "id": "idba-071",
+    "id": "fusi-071",
     "category": "Funny Situations",
     "prompt": "Finding your cinema seat after the movie has started",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Walk in darkness, check row numbers, squeeze past people, apologize silently"
   },
   {
-    "id": "idba-072",
+    "id": "fusi-072",
     "category": "Funny Situations",
     "prompt": "Automatic car wash while you are inside the car",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Drive onto track, brushes attack windows, soap covers view, startled reaction"
   },
   {
-    "id": "idba-073",
+    "id": "fusi-073",
     "category": "Funny Situations",
     "prompt": "Trying to mow the lawn but the mower will not start",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Pull starter cord repeatedly, inspect machine, pull harder, finally starts"
   },
   {
-    "id": "idba-074",
+    "id": "fusi-074",
     "category": "Funny Situations",
     "prompt": "Using a leaf blower and blowing everything in the wrong direction",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Start blower, push leaves neatly, wind sends them back, chase them"
   },
   {
-    "id": "idba-075",
+    "id": "fusi-075",
     "category": "Funny Situations",
     "prompt": "Trying to parallel park while everyone watches",
     "difficulty": "Medium-Hard",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Steering, checking mirrors, backing up, correcting repeatedly, embarrassed smile"
   },
   {
-    "id": "idba-076",
+    "id": "fusi-076",
     "category": "Funny Situations",
     "prompt": "Trying to open an umbrella indoors and hitting everything",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Open umbrella, bump imaginary objects/people, struggle to close it"
   },
   {
-    "id": "idba-077",
+    "id": "fusi-077",
     "category": "Funny Situations",
     "prompt": "Taking a photo of food before anyone is allowed to eat",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Stop everyone, arrange plates, change angle, photograph repeatedly"
   },
   {
-    "id": "idba-078",
+    "id": "fusi-078",
     "category": "Funny Situations",
     "prompt": "Trying to peel a boiled egg and taking half the egg with the shell",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Tap shell, peel tiny bits, lose chunks, stare sadly at ruined egg"
   },
   {
-    "id": "idba-079",
+    "id": "fusi-079",
     "category": "Funny Situations",
     "prompt": "Trying to quietly eat chips during a serious movie",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Open bag carefully, crunch, freeze, chew slowly, hide bag"
+  },
+  {
+    "id": "on&-001",
+    "category": "One-Word & Object Prompts",
+    "prompt": "Pressure Cooker",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Puffing cheeks, building up tension, making a sudden whistling/steam releasing gesture with head/arms"
+  },
+  {
+    "id": "on&-002",
+    "category": "One-Word & Object Prompts",
+    "prompt": "Protein Shake",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Vigorous shaker bottle shaking, flexing muscles, gulping, checking biceps in disbelief"
+  },
+  {
+    "id": "on&-003",
+    "category": "One-Word & Object Prompts",
+    "prompt": "Popcorn",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Crouching small, warming up, suddenly jumping and popping up violently in all directions"
+  },
+  {
+    "id": "on&-004",
+    "category": "One-Word & Object Prompts",
+    "prompt": "Blender / Mixer Grinder",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Spinning arms frantically in a circle, violent vibrating, holding lid down so it doesn't explode"
+  },
+  {
+    "id": "on&-005",
+    "category": "One-Word & Object Prompts",
+    "prompt": "Electric Mosquito Racket",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Swinging racket in the air, sudden electric zap flinch, inspecting dead bug with satisfaction"
+  },
+  {
+    "id": "on&-006",
+    "category": "One-Word & Object Prompts",
+    "prompt": "Alarm Clock",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Loud bell ringing gesture, vibrating body violently, getting smashed on the head by hand to snooze"
+  },
+  {
+    "id": "on&-007",
+    "category": "One-Word & Object Prompts",
+    "prompt": "Bubble Wrap",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Pinching fingers together obsessively, popping satisfaction, rapid pressing across imaginary sheet"
+  },
+  {
+    "id": "on&-008",
+    "category": "One-Word & Object Prompts",
+    "prompt": "Toothpaste Tube",
+    "difficulty": "Medium-Hard",
+    "status": "Keep",
+    "actingHint": "Getting squeezed flat from bottom to top, struggling to push out that last tiny drop"
+  },
+  {
+    "id": "on&-009",
+    "category": "One-Word & Object Prompts",
+    "prompt": "Sparkler (Phuljhadi)",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Holding stick, sparks hissing outwards, waving in circular patterns with squinted smiling face"
+  },
+  {
+    "id": "on&-010",
+    "category": "One-Word & Object Prompts",
+    "prompt": "Jackfruit (Kathal)",
+    "difficulty": "Hard",
+    "status": "Maybe",
+    "actingHint": "Lifting huge heavy prickly fruit, oily hands rubbing, sticky chopping struggle"
+  },
+  {
+    "id": "on&-011",
+    "category": "One-Word & Object Prompts",
+    "prompt": "Selfie Stick",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Extending arm out rigidly like a telescoping pole, phone tilting, making exaggerated duck faces"
+  },
+  {
+    "id": "on&-012",
+    "category": "One-Word & Object Prompts",
+    "prompt": "Hiccups",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Talking or walking, sudden involuntary full-body jolts, trying to hold breath, drinking upside down"
+  },
+  {
+    "id": "on&-013",
+    "category": "One-Word & Object Prompts",
+    "prompt": "Windshield Wiper",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Moving arms back and forth in sync, changing speeds from slow to frantic during heavy downpour"
+  },
+  {
+    "id": "on&-014",
+    "category": "One-Word & Object Prompts",
+    "prompt": "Vending Machine",
+    "difficulty": "Medium-Hard",
+    "status": "Keep",
+    "actingHint": "Standing stiff as a box, dropping snack, getting kicked and shaken when snack gets stuck"
+  },
+  {
+    "id": "on&-015",
+    "category": "One-Word & Object Prompts",
+    "prompt": "Hot Water Bottle",
+    "difficulty": "Medium",
+    "status": "Maybe",
+    "actingHint": "Sloshing squishy belly, hugging oneself for warmth, soothing a stomach cramp"
+  },
+  {
+    "id": "on&-016",
+    "category": "One-Word & Object Prompts",
+    "prompt": "Treadmill / Walking Pad",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Power walking in one spot, pretending to increase speed buttons, tripping or flying off the back"
+  },
+  {
+    "id": "on&-017",
+    "category": "One-Word & Object Prompts",
+    "prompt": "Tandoor / Making Tandoori Naan",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Slapping dough between palms, stretching it onto a cloth cushion, diving arm deep into a fiery hot pit, sticking it to the wall, pulling out with metal skewers"
+  },
+  {
+    "id": "on&-018",
+    "category": "One-Word & Object Prompts",
+    "prompt": "Sugarcane Juicing Machine (Ganne Ka Juice)",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Feeding long cane into imaginary mechanical rollers, spinning giant heavy flywheel, folding cane with mint/lemon and crushing repeatedly"
+  },
+  {
+    "id": "on&-019",
+    "category": "One-Word & Object Prompts",
+    "prompt": "Nazar Utarna (Warding off Evil Eye)",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Circling red chilies / salt or mustard seeds clockwise 7 times around someone's head, whispering prayers, throwing into fire and coughing from smoke"
+  },
+  {
+    "id": "on&-020",
+    "category": "One-Word & Object Prompts",
+    "prompt": "Laughing with Tears / Laughing till Crying",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Starting with a chuckle, breaking into unstoppable belly laughter, clutching stomach, wiping streaming tears of joy, catching breath"
+  },
+  {
+    "id": "on&-021",
+    "category": "One-Word & Object Prompts",
+    "prompt": "Jalebi Maker",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Squeezing batter cloth bag in rapid concentric swirls over hot oil, flipping crispy spirals, dunking them straight into sugar syrup"
+  },
+  {
+    "id": "on&-022",
+    "category": "One-Word & Object Prompts",
+    "prompt": "Kite Flying / Patang (Cutting someone's kite)",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Holding imaginary charkhi/manjha, tugging line, sudden aggressive pulls, shouting 'Kai Po Che / Woh Kata' celebration dance"
+  },
+  {
+    "id": "on&-023",
+    "category": "One-Word & Object Prompts",
+    "prompt": "Chai Tapri Cutting Chai",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Pouring boiling tea from a meter high between two glasses without spilling, filtering through cloth strainer, serving briskly in cutting glasses"
+  },
+  {
+    "id": "on&-024",
+    "category": "One-Word & Object Prompts",
+    "prompt": "Applying Henna / Mehndi",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Delicately holding a cone, drawing intricate patterns on an open palm, blowing on it to dry, stiff fingers afraid to touch anything"
+  },
+  {
+    "id": "on&-025",
+    "category": "One-Word & Object Prompts",
+    "prompt": "Gol Gappa / Pani Puri Eating Contest",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Opening mouth wide, swallowing whole crispy poori in one bite, eyes watering, eagerly holding bowl ready for the next round"
+  },
+  {
+    "id": "on&-026",
+    "category": "One-Word & Object Prompts",
+    "prompt": "Negotiating with Auto Rickshaw Driver",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Hailing an auto, leaning in, hearing the quote, dramatically rejecting with hand wave, walking away slowly waiting for him to call back"
+  },
+  {
+    "id": "on&-027",
+    "category": "One-Word & Object Prompts",
+    "prompt": "Making Samosas",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Rolling dough, slicing half-circle, folding into hollow cone, spooning spiced potato filling, sealing/crimping triangular edges, sliding gently into hot frying oil"
+  },
+  {
+    "id": "on&-028",
+    "category": "One-Word & Object Prompts",
+    "prompt": "Singing Qawwali",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Sitting cross-legged, pumping invisible harmonium with one hand while tapping keys, energetic rhythmic clapping, raising one trembling hand to ceiling on high note, swaying head"
+  },
+  {
+    "id": "on&-029",
+    "category": "One-Word & Object Prompts",
+    "prompt": "Stapler",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Holding papers together, pressing hard, checking why nothing happened, opening stapler, discovering no pins"
+  },
+  {
+    "id": "on&-030",
+    "category": "One-Word & Object Prompts",
+    "prompt": "Zip / Zipper",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Pulling zipper up, getting cloth stuck, tugging harder, bending down to inspect, sudden release"
+  },
+  {
+    "id": "on&-031",
+    "category": "One-Word & Object Prompts",
+    "prompt": "Remote Control",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Pointing at TV, pressing buttons repeatedly, changing batteries, smacking remote, finally working"
+  },
+  {
+    "id": "on&-032",
+    "category": "One-Word & Object Prompts",
+    "prompt": "Pressure Cooker Gasket",
+    "difficulty": "Hard",
+    "status": "Keep",
+    "actingHint": "Stretching rubber ring, fitting into lid groove, checking seal, steam leak panic"
+  },
+  {
+    "id": "on&-033",
+    "category": "One-Word & Object Prompts",
+    "prompt": "Thermos Flask",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Unscrewing cap, pouring carefully, testing temperature, sudden too-hot reaction, blowing repeatedly"
+  },
+  {
+    "id": "on&-034",
+    "category": "One-Word & Object Prompts",
+    "prompt": "Vegetable Peeler",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Holding vegetable in one hand, rapid peeling strokes, nearly shaving finger, inspecting thin peel strips"
+  },
+  {
+    "id": "on&-035",
+    "category": "One-Word & Object Prompts",
+    "prompt": "Chimta / Kitchen Tongs",
+    "difficulty": "Medium-Hard",
+    "status": "Keep",
+    "actingHint": "Pinching hot roti, flipping over flame, dropping it, chasing it, grabbing again quickly"
+  },
+  {
+    "id": "on&-036",
+    "category": "One-Word & Object Prompts",
+    "prompt": "Rolling Pin / Belan",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Rolling dough, rotating it, realizing shape is crooked, aggressive correction, flour dusting"
+  },
+  {
+    "id": "on&-037",
+    "category": "One-Word & Object Prompts",
+    "prompt": "Sieve / Channi",
+    "difficulty": "Medium-Hard",
+    "status": "Keep",
+    "actingHint": "Pouring flour or tea, shaking side to side, tapping edge, separating fine from coarse"
+  },
+  {
+    "id": "on&-038",
+    "category": "One-Word & Object Prompts",
+    "prompt": "Luggage Weighing Scale",
+    "difficulty": "Medium-Hard",
+    "status": "Keep",
+    "actingHint": "Hooking suitcase, lifting with strain, checking number, removing items, retrying repeatedly"
+  },
+  {
+    "id": "on&-039",
+    "category": "One-Word & Object Prompts",
+    "prompt": "Suitcase Lock",
+    "difficulty": "Medium-Hard",
+    "status": "Keep",
+    "actingHint": "Spinning combination wheels, trying code, pulling latch, wrong code frustration, sudden click"
+  },
+  {
+    "id": "on&-040",
+    "category": "One-Word & Object Prompts",
+    "prompt": "Automatic Hand Dryer",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Putting wet hands under sensor, moving them around, sensor stops, frantic repositioning"
+  },
+  {
+    "id": "on&-041",
+    "category": "One-Word & Object Prompts",
+    "prompt": "Paper Shredder",
+    "difficulty": "Medium-Hard",
+    "status": "Keep",
+    "actingHint": "Feeding papers in, hands vibrating with imaginary machine, paper jam, reverse button struggle"
+  },
+  {
+    "id": "on&-042",
+    "category": "One-Word & Object Prompts",
+    "prompt": "Photocopier",
+    "difficulty": "Medium-Hard",
+    "status": "Keep",
+    "actingHint": "Lifting lid, placing paper carefully, pressing buttons, waiting, paper jam, opening side panel"
+  },
+  {
+    "id": "on&-043",
+    "category": "One-Word & Object Prompts",
+    "prompt": "Escalator",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Approaching cautiously, timing first step, riding upward stiffly, stepping off awkwardly"
+  },
+  {
+    "id": "on&-044",
+    "category": "One-Word & Object Prompts",
+    "prompt": "Revolving Door",
+    "difficulty": "Medium-Hard",
+    "status": "Keep",
+    "actingHint": "Pushing section around, walking in circles, getting trapped between panels, backing out confused"
+  },
+  {
+    "id": "on&-045",
+    "category": "One-Word & Object Prompts",
+    "prompt": "Parking Meter",
+    "difficulty": "Medium-Hard",
+    "status": "Keep",
+    "actingHint": "Checking pockets, inserting coins/card, pressing buttons, watching time increase, panicking at error"
+  },
+  {
+    "id": "on&-046",
+    "category": "One-Word & Object Prompts",
+    "prompt": "Umbrella in Strong Wind",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Opening umbrella, sudden wind turning it inside out, fighting it, closing and reopening"
+  },
+  {
+    "id": "on&-047",
+    "category": "One-Word & Object Prompts",
+    "prompt": "Fire Extinguisher",
+    "difficulty": "Medium-Hard",
+    "status": "Keep",
+    "actingHint": "Pulling safety pin, gripping hose, aiming, squeezing lever, getting pushed back by imaginary blast"
+  },
+  {
+    "id": "on&-048",
+    "category": "One-Word & Object Prompts",
+    "prompt": "Vacuum Cleaner",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Pushing back and forth, cord snagging, sucking up wrong object, hose blockage inspection"
+  },
+  {
+    "id": "on&-049",
+    "category": "One-Word & Object Prompts",
+    "prompt": "Projector",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Connect laptop, aim lens, focus image, point at giant screen"
+  },
+  {
+    "id": "on&-050",
+    "category": "One-Word & Object Prompts",
+    "prompt": "Cinema / Movie Theater",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Big screen, popcorn, dark room, find seat, watch movie"
+  },
+  {
+    "id": "on&-051",
+    "category": "One-Word & Object Prompts",
+    "prompt": "Snow Shovel",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Scoop heavy snow, lift, throw over shoulder, repeat"
+  },
+  {
+    "id": "on&-052",
+    "category": "One-Word & Object Prompts",
+    "prompt": "Garden Hose",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Uncoil hose, spray plants, kink hose, sudden water burst"
+  },
+  {
+    "id": "on&-053",
+    "category": "One-Word & Object Prompts",
+    "prompt": "Snow Blower",
+    "difficulty": "Medium-Hard",
+    "status": "Keep",
+    "actingHint": "Push machine through snow, chute throws snow sideways"
+  },
+  {
+    "id": "on&-054",
+    "category": "One-Word & Object Prompts",
+    "prompt": "Lawn Mower",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Pull starter, push straight lines, turn at lawn edge"
+  },
+  {
+    "id": "on&-055",
+    "category": "One-Word & Object Prompts",
+    "prompt": "Leaf Blower",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Hold blower, blast leaves, fight wind, leaves scatter"
+  },
+  {
+    "id": "on&-056",
+    "category": "One-Word & Object Prompts",
+    "prompt": "Movie Popcorn",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Hold giant tub, eat handfuls, watch screen, spill in dark"
+  },
+  {
+    "id": "on&-057",
+    "category": "One-Word & Object Prompts",
+    "prompt": "Cinema Recliner Seat",
+    "difficulty": "Medium-Hard",
+    "status": "Keep",
+    "actingHint": "Press button, seat leans back, legs rise, relax dramatically"
+  },
+  {
+    "id": "on&-058",
+    "category": "One-Word & Object Prompts",
+    "prompt": "Extension Cord",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Uncoil long cable, plug devices, cable tangles around feet"
+  },
+  {
+    "id": "on&-059",
+    "category": "One-Word & Object Prompts",
+    "prompt": "Ceiling Fan Regulator",
+    "difficulty": "Medium-Hard",
+    "status": "Keep",
+    "actingHint": "Turn knob slowly, fan speed changes, test each level"
+  },
+  {
+    "id": "on&-060",
+    "category": "One-Word & Object Prompts",
+    "prompt": "Doorbell Camera",
+    "difficulty": "Medium-Hard",
+    "status": "Keep",
+    "actingHint": "Press bell, look into camera, wave, wait for response"
+  },
+  {
+    "id": "on&-061",
+    "category": "One-Word & Object Prompts",
+    "prompt": "Thermal Lunch Bag",
+    "difficulty": "Medium-Hard",
+    "status": "Keep",
+    "actingHint": "Pack food, zip insulated bag, carry carefully"
+  },
+  {
+    "id": "on&-062",
+    "category": "One-Word & Object Prompts",
+    "prompt": "Foldable Step Stool",
+    "difficulty": "Medium-Hard",
+    "status": "Keep",
+    "actingHint": "Open folded stool, climb carefully, wobble, fold again"
+  },
+  {
+    "id": "bope-001",
+    "category": "Bollywood People & Relations",
+    "prompt": "Rakesh Roshan",
+    "difficulty": "Medium-Hard",
+    "status": "Keep",
+    "actingHint": "Film director gestures + Hrithik dance, then indicate father/son relationship"
+  },
+  {
+    "id": "bope-002",
+    "category": "Bollywood People & Relations",
+    "prompt": "Javed Akhtar",
+    "difficulty": "Hard",
+    "status": "Keep",
+    "actingHint": "Writing lyrics/dialogue + indicate children Farhan and Zoya"
+  },
+  {
+    "id": "bope-003",
+    "category": "Bollywood People & Relations",
+    "prompt": "Salim Khan",
+    "difficulty": "Hard",
+    "status": "Keep",
+    "actingHint": "Writing film stories + indicate Salman Khan as son"
+  },
+  {
+    "id": "bope-004",
+    "category": "Bollywood People & Relations",
+    "prompt": "Neetu Kapoor",
+    "difficulty": "Medium-Hard",
+    "status": "Keep",
+    "actingHint": "Old-film actress gesture + Rishi Kapoor + Ranbir family connection"
+  },
+  {
+    "id": "bope-005",
+    "category": "Bollywood People & Relations",
+    "prompt": "Babita Kapoor",
+    "difficulty": "Hard",
+    "status": "Keep",
+    "actingHint": "Actress gesture + indicate daughters Karisma and Kareena"
+  },
+  {
+    "id": "bope-006",
+    "category": "Bollywood People & Relations",
+    "prompt": "Sharmila Tagore",
+    "difficulty": "Hard",
+    "status": "Keep",
+    "actingHint": "Classic actress pose + indicate Saif Ali Khan as son"
+  },
+  {
+    "id": "bope-007",
+    "category": "Bollywood People & Relations",
+    "prompt": "Randhir Kapoor",
+    "difficulty": "Hard",
+    "status": "Keep",
+    "actingHint": "Classic actor/director + indicate Kareena and Karisma as daughters"
+  },
+  {
+    "id": "bope-008",
+    "category": "Bollywood People & Relations",
+    "prompt": "Tanuja",
+    "difficulty": "Hard",
+    "status": "Keep",
+    "actingHint": "Classic actress + indicate Kajol as daughter"
+  },
+  {
+    "id": "bope-009",
+    "category": "Bollywood People & Relations",
+    "prompt": "Raj Kapoor",
+    "difficulty": "Medium-Hard",
+    "status": "Keep",
+    "actingHint": "Old-film hero/director + Kapoor family tree gesture"
+  },
+  {
+    "id": "bope-010",
+    "category": "Bollywood People & Relations",
+    "prompt": "Nargis",
+    "difficulty": "Hard",
+    "status": "Keep",
+    "actingHint": "Classic actress + indicate Sanjay Dutt as son"
+  },
+  {
+    "id": "bope-011",
+    "category": "Bollywood People & Relations",
+    "prompt": "Sunil Dutt",
+    "difficulty": "Hard",
+    "status": "Keep",
+    "actingHint": "Actor/politician gesture + indicate Sanjay Dutt as son"
+  },
+  {
+    "id": "bope-012",
+    "category": "Bollywood People & Relations",
+    "prompt": "Dharmendra",
+    "difficulty": "Medium-Hard",
+    "status": "Keep",
+    "actingHint": "Classic action hero + indicate Sunny and Bobby Deol as sons"
+  },
+  {
+    "id": "bope-013",
+    "category": "Bollywood People & Relations",
+    "prompt": "Jaya Bachchan",
+    "difficulty": "Medium-Hard",
+    "status": "Keep",
+    "actingHint": "Classic actress + Amitabh spouse + Abhishek mother connection"
+  },
+  {
+    "id": "bope-014",
+    "category": "Bollywood People & Relations",
+    "prompt": "Soni Razdan",
+    "difficulty": "Hard",
+    "status": "Keep",
+    "actingHint": "Actress + indicate Alia Bhatt as daughter"
+  },
+  {
+    "id": "bope-015",
+    "category": "Bollywood People & Relations",
+    "prompt": "Mahesh Bhatt",
+    "difficulty": "Medium-Hard",
+    "status": "Keep",
+    "actingHint": "Director gesture + indicate Alia Bhatt as daughter"
+  },
+  {
+    "id": "bope-016",
+    "category": "Bollywood People & Relations",
+    "prompt": "Prakash Padukone",
+    "difficulty": "Hard",
+    "status": "Keep",
+    "actingHint": "Badminton champion gesture + indicate Deepika Padukone as daughter"
+  },
+  {
+    "id": "bope-017",
+    "category": "Bollywood People & Relations",
+    "prompt": "Amitabh Bachchan's Father - Harivansh Rai Bachchan",
+    "difficulty": "Hard",
+    "status": "Keep",
+    "actingHint": "Poet/writing gesture + indicate Amitabh as son"
+  },
+  {
+    "id": "bope-018",
+    "category": "Bollywood People & Relations",
+    "prompt": "Helen",
+    "difficulty": "Hard",
+    "status": "Maybe",
+    "actingHint": "Classic cabaret dance pose + Salman Khan family connection"
+  },
+  {
+    "id": "bope-019",
+    "category": "Bollywood People & Relations",
+    "prompt": "Boney Kapoor",
+    "difficulty": "Hard",
+    "status": "Keep",
+    "actingHint": "Film producer gesture + indicate Arjun/Janhvi/Khushi family links"
+  },
+  {
+    "id": "bope-020",
+    "category": "Bollywood People & Relations",
+    "prompt": "Waheeda Rehman",
+    "difficulty": "Hard",
+    "status": "Maybe",
+    "actingHint": "Classic actress pose + old cinema reel gesture"
+  },
+  {
+    "id": "intv-001",
+    "category": "Indian TV & Shows",
+    "prompt": "Kaun Banega Crorepati (KBC)",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Hot seat, four options, computer lock, phone-a-friend gesture"
+  },
+  {
+    "id": "intv-002",
+    "category": "Indian TV & Shows",
+    "prompt": "Bigg Boss",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Invisible voice, contestants arguing, confession room, nomination gesture"
+  },
+  {
+    "id": "intv-003",
+    "category": "Indian TV & Shows",
+    "prompt": "Indian Idol",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Singing contestant, judges, golden ticket, audience voting"
+  },
+  {
+    "id": "intv-004",
+    "category": "Indian TV & Shows",
+    "prompt": "The Kapil Sharma Show",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Host jokes, celebrity couch, audience laughter, comic banter"
+  },
+  {
+    "id": "intv-005",
+    "category": "Indian TV & Shows",
+    "prompt": "CID",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Crime investigation, magnifying evidence, ACP-style command, breaking door"
+  },
+  {
+    "id": "intv-006",
+    "category": "Indian TV & Shows",
+    "prompt": "Taarak Mehta Ka Ooltah Chashmah",
+    "difficulty": "Medium-Hard",
+    "status": "Keep",
+    "actingHint": "Society life, glasses, comic confusion, group problem-solving"
+  },
+  {
+    "id": "intv-007",
+    "category": "Indian TV & Shows",
+    "prompt": "Shark Tank India",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Pitch product, ask for money/equity, sharks judging, deal/no-deal gesture"
+  },
+  {
+    "id": "intv-008",
+    "category": "Indian TV & Shows",
+    "prompt": "Koffee with Karan",
+    "difficulty": "Medium-Hard",
+    "status": "Keep",
+    "actingHint": "Coffee mug, celebrity interview, rapid-fire round"
+  },
+  {
+    "id": "intv-009",
+    "category": "Indian TV & Shows",
+    "prompt": "Sa Re Ga Ma Pa",
+    "difficulty": "Medium-Hard",
+    "status": "Keep",
+    "actingHint": "Singer audition, judges, music competition, voting"
+  },
+  {
+    "id": "intv-010",
+    "category": "Indian TV & Shows",
+    "prompt": "Dance India Dance",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Dance audition, judges, performance, selection gesture"
+  },
+  {
+    "id": "intv-011",
+    "category": "Indian TV & Shows",
+    "prompt": "Crime Patrol",
+    "difficulty": "Medium-Hard",
+    "status": "Keep",
+    "actingHint": "Crime reenactment, investigation, serious host narration gesture"
+  },
+  {
+    "id": "intv-012",
+    "category": "Indian TV & Shows",
+    "prompt": "Roadies",
+    "difficulty": "Medium-Hard",
+    "status": "Keep",
+    "actingHint": "Audition, tough tasks, vote-out, travel/adventure gesture"
+  },
+  {
+    "id": "intv-013",
+    "category": "Indian TV & Shows",
+    "prompt": "MasterChef India",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Cook under time pressure, judges taste, mystery box"
+  },
+  {
+    "id": "intv-014",
+    "category": "Indian TV & Shows",
+    "prompt": "The Great Indian Laughter Challenge",
+    "difficulty": "Medium-Hard",
+    "status": "Keep",
+    "actingHint": "Stand-up comedy, judges laughing, buzzer/selection"
+  },
+  {
+    "id": "intv-015",
+    "category": "Indian TV & Shows",
+    "prompt": "Antakshari",
+    "difficulty": "Medium-Hard",
+    "status": "Keep",
+    "actingHint": "Sing silently, point to last letter, pass turn to next team"
+  },
+  {
+    "id": "intv-016",
+    "category": "Indian TV & Shows",
+    "prompt": "Jhalak Dikhhla Jaa",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Celebrity dance performance, judges scoring"
+  },
+  {
+    "id": "intv-017",
+    "category": "Indian TV & Shows",
+    "prompt": "India's Got Talent",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Perform unusual talent, judges hit buzzer, applause"
   },
   {
     "id": "bodi-001",
     "category": "Bollywood Dialogues",
     "prompt": "Kitne aadmi the?",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Count men, interrogate angrily, dacoit posture"
   },
   {
     "id": "bodi-002",
     "category": "Bollywood Dialogues",
     "prompt": "Hum jahan khade hote hain, line wahin se shuru hoti hai",
     "difficulty": "Medium-Hard",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Stand proudly, point to self, show a queue forming"
   },
   {
     "id": "bodi-003",
     "category": "Bollywood Dialogues",
     "prompt": "Mogambo khush hua",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Villain throne, huge grin, triumphant approval"
   },
   {
     "id": "bodi-004",
     "category": "Bollywood Dialogues",
     "prompt": "Mere paas maa hai",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Two brothers comparing possessions, then point to mother"
   },
   {
     "id": "bodi-005",
     "category": "Bollywood Dialogues",
     "prompt": "Don ko pakadna mushkil hi nahin...",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Police chase, escape, impossible-to-catch gesture"
   },
   {
     "id": "bodi-006",
     "category": "Bollywood Dialogues",
     "prompt": "Rishte mein toh hum tumhare baap lagte hain...",
     "difficulty": "Medium-Hard",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Point to self, father/authority gesture, swagger"
   },
   {
     "id": "bodi-007",
     "category": "Bollywood Dialogues",
     "prompt": "Basanti, in kutton ke saamne mat nachna",
     "difficulty": "Medium-Hard",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Basanti dancing, villain stops her, point to surrounding gang"
   },
   {
     "id": "bodi-008",
     "category": "Bollywood Dialogues",
     "prompt": "Ja Simran, jee le apni zindagi",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Father gives permission, daughter runs toward train/love"
   },
   {
     "id": "bodi-009",
     "category": "Bollywood Dialogues",
     "prompt": "Bade bade deshon mein...",
     "difficulty": "Medium-Hard",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Romantic shrug, explain small mistake, SRK-style gesture"
   },
   {
     "id": "bodi-010",
     "category": "Bollywood Dialogues",
     "prompt": "Picture abhi baaki hai, mere dost",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Movie screen gesture, stop ending, show more remains"
   },
   {
     "id": "bodi-011",
     "category": "Bollywood Dialogues",
     "prompt": "All is well",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Tap chest, calm panic, reassure friends"
   },
   {
     "id": "bodi-012",
     "category": "Bollywood Dialogues",
     "prompt": "Ek chutki sindoor...",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Tiny pinch gesture, forehead/sindoor, dramatic emotion"
   },
   {
     "id": "bodi-013",
     "category": "Bollywood Dialogues",
     "prompt": "Tareekh pe tareekh",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Courtroom, calendar/date after date, frustration"
   },
   {
     "id": "bodi-014",
     "category": "Bollywood Dialogues",
     "prompt": "Pushpa, I hate tears",
     "difficulty": "Medium-Hard",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Wipe tears, reassure someone, romantic pose"
   },
   {
     "id": "bodi-015",
     "category": "Bollywood Dialogues",
     "prompt": "Aaj mere paas gaadi hai, bangla hai...",
     "difficulty": "Medium-Hard",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Show car, house, wealth one by one, boast"
   },
   {
     "id": "bodi-016",
     "category": "Bollywood Dialogues",
     "prompt": "Naam toh suna hoga",
     "difficulty": "Medium-Hard",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Dramatic self-introduction, point to name/reputation"
   },
   {
     "id": "bodi-017",
     "category": "Bollywood Dialogues",
     "prompt": "How's the josh?",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Military/team formation, raise energy, victory response"
   },
   {
     "id": "bodi-018",
     "category": "Bollywood Dialogues",
     "prompt": "Jaa jaa jaa, mujhe na ab yaad aa",
     "difficulty": "Hard",
-    "status": "Keep"
+    "status": "Maybe",
+    "actingHint": "Reject someone dramatically, wave away, memory gesture"
   },
   {
     "id": "bodi-019",
     "category": "Bollywood Dialogues",
     "prompt": "Babu Moshai, zindagi badi honi chahiye...",
     "difficulty": "Hard",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Show life bigger than long, emotional friend gesture"
   },
   {
     "id": "bodi-020",
     "category": "Bollywood Dialogues",
     "prompt": "Aap purush hi nahin, mahapurush hain",
     "difficulty": "Hard",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Praise someone dramatically, fold hands, exaggerate greatness"
   },
   {
     "id": "bodi-021",
     "category": "Bollywood Dialogues",
     "prompt": "Crime Master Gogo naam hai mera",
     "difficulty": "Medium-Hard",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Introduce villain self, comic swagger, steal gesture"
   },
   {
     "id": "bodi-022",
     "category": "Bollywood Dialogues",
     "prompt": "Main apni favourite hoon",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Point proudly to self, admire self in mirror"
   },
   {
     "id": "bodi-023",
     "category": "Bollywood Dialogues",
     "prompt": "Control Uday, control",
     "difficulty": "Medium-Hard",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Hold angry person back, calm them repeatedly"
   },
   {
     "id": "boso-001",
     "category": "Bollywood Songs",
     "prompt": "Khaike Paan Banaras Wala",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Eat paan, red-mouth gesture, Banarasi swagger, Amitabh-style dance"
   },
   {
     "id": "boso-002",
     "category": "Bollywood Songs",
     "prompt": "Bijli Ki Rani",
     "difficulty": "Medium-Hard",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Electric shock + crown/queen + dramatic dance"
   },
   {
     "id": "boso-003",
     "category": "Bollywood Songs",
     "prompt": "Ek Do Teen",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Count dramatically, Madhuri-style dance movements"
   },
   {
     "id": "boso-004",
     "category": "Bollywood Songs",
     "prompt": "Chaiyya Chaiyya",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Moving train + dancing on top + rhythmic travel gesture"
   },
   {
     "id": "boso-005",
     "category": "Bollywood Songs",
     "prompt": "Jumma Chumma De De",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Ask for kiss + exaggerated Amitabh-style dance"
   },
   {
     "id": "boso-006",
     "category": "Bollywood Songs",
     "prompt": "Dhak Dhak Karne Laga",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Strong heartbeat + romantic expression + Madhuri-style gesture"
   },
   {
     "id": "boso-007",
     "category": "Bollywood Songs",
     "prompt": "Kajra Re",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Apply kajal to eyes + iconic dance style"
   },
   {
     "id": "boso-008",
     "category": "Bollywood Songs",
     "prompt": "Bole Chudiyan",
     "difficulty": "Medium-Hard",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Show bangles ringing/talking + wedding dance"
   },
   {
     "id": "boso-009",
     "category": "Bollywood Songs",
     "prompt": "Didi Tera Devar Deewana",
     "difficulty": "Medium-Hard",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Older sister + brother-in-law + crazy-in-love gesture"
   },
   {
     "id": "boso-010",
     "category": "Bollywood Songs",
     "prompt": "Mere Angne Mein",
     "difficulty": "Hard",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Point to own courtyard/home + exaggerated performance"
   },
   {
     "id": "boso-011",
     "category": "Bollywood Songs",
     "prompt": "Aankh Marey",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Repeated wink + playful dance"
   },
   {
     "id": "boso-012",
     "category": "Bollywood Songs",
     "prompt": "Main Nikla Gaddi Leke",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Drive a vehicle proudly + energetic travel gesture"
   },
   {
     "id": "boso-013",
     "category": "Bollywood Songs",
     "prompt": "Hawa Hawai",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Wind blowing + flamboyant Sridevi-style performance"
   },
   {
     "id": "boso-014",
     "category": "Bollywood Songs",
     "prompt": "Choli Ke Peeche",
     "difficulty": "Medium-Hard",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Point behind/back + clothing + questioning gesture"
   },
   {
     "id": "boso-015",
     "category": "Bollywood Songs",
     "prompt": "Aati Kya Khandala",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Call someone over + travel/hill-station gesture"
   },
   {
     "id": "boso-016",
     "category": "Bollywood Songs",
     "prompt": "Tamma Tamma Loge",
     "difficulty": "Medium-Hard",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Iconic dance + offering/taking gesture"
   },
   {
     "id": "boso-017",
     "category": "Bollywood Songs",
     "prompt": "Tip Tip Barsa Paani",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Raindrops + getting soaked + dance"
   },
   {
     "id": "boso-018",
     "category": "Bollywood Songs",
     "prompt": "Tu Cheez Badi Hai Mast Mast",
     "difficulty": "Medium-Hard",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Point to person/object + exaggerated impressed reaction"
   },
   {
     "id": "boso-019",
     "category": "Bollywood Songs",
     "prompt": "Saat Samundar Paar",
     "difficulty": "Hard",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Count seven + ocean waves + crossing far away"
   },
   {
     "id": "boso-020",
     "category": "Bollywood Songs",
     "prompt": "Papa Kehte Hain",
     "difficulty": "Medium-Hard",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Father talking + point to self/future ambition"
   },
   {
     "id": "boso-021",
     "category": "Bollywood Songs",
     "prompt": "Mera Joota Hai Japani",
     "difficulty": "Hard",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Shoe + Japan + proud self gesture"
   },
   {
     "id": "boso-022",
     "category": "Bollywood Songs",
     "prompt": "Dum Maro Dum",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Deep breath/smoke-style gesture + rhythmic repetition"
   },
   {
     "id": "boso-023",
     "category": "Bollywood Songs",
     "prompt": "Khaali Peeli",
     "difficulty": "Hard",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Empty hands + yellow-color clue + comic confusion"
   },
   {
     "id": "boso-024",
     "category": "Bollywood Songs",
     "prompt": "Mach Gaya Shor",
     "difficulty": "Medium-Hard",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Crowd/noise/celebration gestures without sound"
   },
   {
     "id": "boso-025",
     "category": "Bollywood Songs",
     "prompt": "Pardesi Pardesi",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Traveler/foreigner leaving + emotional goodbye"
   },
   {
     "id": "boso-026",
     "category": "Bollywood Songs",
     "prompt": "Lakdi Ki Kathi",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Ride wooden horse, childlike gallop"
   },
   {
     "id": "boso-027",
     "category": "Bollywood Songs",
     "prompt": "My Name Is Lakhan",
     "difficulty": "Medium-Hard",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Point to self/name, count one-two, Anil Kapoor-style dance"
   },
   {
     "id": "boso-028",
     "category": "Bollywood Songs",
     "prompt": "Aap Jaisa Koi",
     "difficulty": "Medium-Hard",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Point to someone special, disco-style dance"
   },
   {
     "id": "boso-029",
     "category": "Bollywood Songs",
     "prompt": "Mere Sapno Ki Rani",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Sleep/dream + crown/queen + train-style clue"
   },
   {
     "id": "boso-030",
     "category": "Bollywood Songs",
     "prompt": "Yeh Kaali Kaali Aankhen",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Point to dark eyes, dramatic dance/romance"
+  },
+  {
+    "id": "fogr-001",
+    "category": "Food, Grocery & Kitchen Items",
+    "prompt": "Shan Biryani Masala",
+    "difficulty": "Medium-Hard",
+    "status": "Keep",
+    "actingHint": "Show packet, sprinkle masala, layer rice/meat, smell biryani proudly"
+  },
+  {
+    "id": "fogr-002",
+    "category": "Food, Grocery & Kitchen Items",
+    "prompt": "Brown Bread",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Slice loaf, point to brown color, make toast/sandwich gesture"
+  },
+  {
+    "id": "fogr-003",
+    "category": "Food, Grocery & Kitchen Items",
+    "prompt": "Hand Blender",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Hold tall container, plunge blender vertically, pulse repeatedly, check smooth texture"
+  },
+  {
+    "id": "fogr-004",
+    "category": "Food, Grocery & Kitchen Items",
+    "prompt": "Garam Masala",
+    "difficulty": "Medium-Hard",
+    "status": "Keep",
+    "actingHint": "Open spice box, pinch mixed spices, smell strongly, sprinkle into curry"
+  },
+  {
+    "id": "fogr-005",
+    "category": "Food, Grocery & Kitchen Items",
+    "prompt": "Coriander Powder",
+    "difficulty": "Hard",
+    "status": "Keep",
+    "actingHint": "Grind seeds, show powder, sprinkle into curry, smell herb aroma"
+  },
+  {
+    "id": "fogr-006",
+    "category": "Food, Grocery & Kitchen Items",
+    "prompt": "Ginger-Garlic Paste",
+    "difficulty": "Medium-Hard",
+    "status": "Keep",
+    "actingHint": "Peel ginger/garlic, grind together, scoop paste into pan"
+  },
+  {
+    "id": "fogr-007",
+    "category": "Food, Grocery & Kitchen Items",
+    "prompt": "Frozen Peas",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Open freezer, shake frozen bag, pour small round peas, cook"
+  },
+  {
+    "id": "fogr-008",
+    "category": "Food, Grocery & Kitchen Items",
+    "prompt": "Pomegranate",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Crack fruit open, pick many seeds one by one, juice-stained fingers"
+  },
+  {
+    "id": "fogr-009",
+    "category": "Food, Grocery & Kitchen Items",
+    "prompt": "Custard Apple / Sitaphal",
+    "difficulty": "Medium-Hard",
+    "status": "Keep",
+    "actingHint": "Bumpy round fruit, split open, scoop soft pulp, spit seeds"
+  },
+  {
+    "id": "fogr-010",
+    "category": "Food, Grocery & Kitchen Items",
+    "prompt": "Jackfruit / Kathal",
+    "difficulty": "Hard",
+    "status": "Keep",
+    "actingHint": "Lift huge prickly fruit, oil hands, sticky cutting struggle"
+  },
+  {
+    "id": "fogr-011",
+    "category": "Food, Grocery & Kitchen Items",
+    "prompt": "Bitter Gourd / Karela",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Bumpy vegetable, slice, taste, make very bitter face"
+  },
+  {
+    "id": "fogr-012",
+    "category": "Food, Grocery & Kitchen Items",
+    "prompt": "Bottle Gourd / Lauki",
+    "difficulty": "Medium-Hard",
+    "status": "Keep",
+    "actingHint": "Long bottle-shaped vegetable, peel, chop, cook curry"
+  },
+  {
+    "id": "fogr-013",
+    "category": "Food, Grocery & Kitchen Items",
+    "prompt": "Ridge Gourd / Tori",
+    "difficulty": "Hard",
+    "status": "Keep",
+    "actingHint": "Long ridged vegetable, scrape ridges, slice, cook"
+  },
+  {
+    "id": "fogr-014",
+    "category": "Food, Grocery & Kitchen Items",
+    "prompt": "Beetroot",
+    "difficulty": "Medium-Hard",
+    "status": "Keep",
+    "actingHint": "Round root, peel, stain hands red, chop salad"
+  },
+  {
+    "id": "fogr-015",
+    "category": "Food, Grocery & Kitchen Items",
+    "prompt": "Raw Mango / Kaccha Aam",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Cut firm mango, taste sour, pucker face, add salt/masala"
+  },
+  {
+    "id": "fogr-016",
+    "category": "Food, Grocery & Kitchen Items",
+    "prompt": "Coconut",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Shake coconut, crack hard shell, drink water, scrape flesh"
+  },
+  {
+    "id": "fogr-017",
+    "category": "Food, Grocery & Kitchen Items",
+    "prompt": "Sweet Corn",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Peel husk, hold cob, eat rows of kernels, butter it"
+  },
+  {
+    "id": "fogr-018",
+    "category": "Food, Grocery & Kitchen Items",
+    "prompt": "Drumstick Vegetable / Moringa",
+    "difficulty": "Hard",
+    "status": "Keep",
+    "actingHint": "Long thin pods, chop into pieces, suck soft inside from cooked pod"
+  },
+  {
+    "id": "fogr-019",
+    "category": "Food, Grocery & Kitchen Items",
+    "prompt": "Cauliflower",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Large florets, break into pieces, wash, cook"
+  },
+  {
+    "id": "fogr-020",
+    "category": "Food, Grocery & Kitchen Items",
+    "prompt": "Ginger",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Knobbly root, peel, grate, smell spicy"
+  },
+  {
+    "id": "fogr-021",
+    "category": "Food, Grocery & Kitchen Items",
+    "prompt": "Masala Dabba",
+    "difficulty": "Medium-Hard",
+    "status": "Keep",
+    "actingHint": "Open round spice box, reveal many small compartments, pinch different spices"
+  },
+  {
+    "id": "fogr-022",
+    "category": "Food, Grocery & Kitchen Items",
+    "prompt": "Tea Strainer / Channi",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Pour tea through small strainer, tap it, discard tea leaves"
+  },
+  {
+    "id": "fogr-023",
+    "category": "Food, Grocery & Kitchen Items",
+    "prompt": "Cling Wrap",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Pull sticky film, it sticks to hands, stretch over bowl, fight tangled sheet"
+  },
+  {
+    "id": "fogr-024",
+    "category": "Food, Grocery & Kitchen Items",
+    "prompt": "Aluminum Foil",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Tear shiny sheet, wrap food, crinkle tightly"
+  },
+  {
+    "id": "fogr-025",
+    "category": "Food, Grocery & Kitchen Items",
+    "prompt": "Ziplock Bag",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Open plastic seal, put food inside, press air out, zip closed"
+  },
+  {
+    "id": "fogr-026",
+    "category": "Food, Grocery & Kitchen Items",
+    "prompt": "Tupperware Box",
+    "difficulty": "Medium-Hard",
+    "status": "Keep",
+    "actingHint": "Match lid to container, press corners, burp/seal lid, stack boxes"
+  },
+  {
+    "id": "fogr-027",
+    "category": "Food, Grocery & Kitchen Items",
+    "prompt": "Ice Tray",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Fill tiny compartments, carry carefully to freezer, twist tray, pop cubes"
+  },
+  {
+    "id": "fogr-028",
+    "category": "Food, Grocery & Kitchen Items",
+    "prompt": "Lunch Box / Tiffin",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Open stacked containers, reveal different foods, pack and close tightly"
+  },
+  {
+    "id": "fogr-029",
+    "category": "Food, Grocery & Kitchen Items",
+    "prompt": "Measuring Cup",
+    "difficulty": "Medium-Hard",
+    "status": "Keep",
+    "actingHint": "Pour ingredients to marked line, crouch to check level, adjust carefully"
+  },
+  {
+    "id": "fogr-030",
+    "category": "Food, Grocery & Kitchen Items",
+    "prompt": "Colander",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Pour pasta/rice into perforated bowl, shake water out, steam rising"
+  },
+  {
+    "id": "fogr-031",
+    "category": "Food, Grocery & Kitchen Items",
+    "prompt": "Bread Toaster",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Insert bread slices, push lever, wait, jump when toast pops"
+  },
+  {
+    "id": "fogr-032",
+    "category": "Food, Grocery & Kitchen Items",
+    "prompt": "Electric Kettle",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Fill water, switch on, wait, steam, pour hot water"
+  },
+  {
+    "id": "fogr-033",
+    "category": "Food, Grocery & Kitchen Items",
+    "prompt": "Mini Chopper",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Put onion inside, close lid, pull cord/press button repeatedly, check chopped result"
+  },
+  {
+    "id": "fogr-034",
+    "category": "Food, Grocery & Kitchen Items",
+    "prompt": "Rice Cooker",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Measure rice/water, close lid, press cook, wait, steam, fluff rice"
+  },
+  {
+    "id": "fogr-035",
+    "category": "Food, Grocery & Kitchen Items",
+    "prompt": "Pressure Cooker Whistle",
+    "difficulty": "Medium-Hard",
+    "status": "Keep",
+    "actingHint": "Fit whistle/weight, steam builds, sudden whistle reaction"
+  },
+  {
+    "id": "fogr-036",
+    "category": "Food, Grocery & Kitchen Items",
+    "prompt": "Rolling Pin / Belan",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Roll dough, rotate roti, flour surface, correct uneven shape"
+  },
+  {
+    "id": "fogr-037",
+    "category": "Food, Grocery & Kitchen Items",
+    "prompt": "Mortar and Pestle / Okhli-Musal",
+    "difficulty": "Medium-Hard",
+    "status": "Keep",
+    "actingHint": "Put spices in bowl, pound rhythmically, grind to paste"
+  },
+  {
+    "id": "fogr-038",
+    "category": "Food, Grocery & Kitchen Items",
+    "prompt": "Papad",
+    "difficulty": "Medium-Hard",
+    "status": "Keep",
+    "actingHint": "Hold thin disc, roast over flame, flip quickly, watch it puff/crisp"
+  },
+  {
+    "id": "fogr-039",
+    "category": "Food, Grocery & Kitchen Items",
+    "prompt": "Pickle Jar / Achaar",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Open tight jar, smell strong pickle, scoop oily spicy piece carefully"
+  },
+  {
+    "id": "fogr-040",
+    "category": "Food, Grocery & Kitchen Items",
+    "prompt": "Besan / Gram Flour",
+    "difficulty": "Hard",
+    "status": "Keep",
+    "actingHint": "Open flour bag, make batter, whisk lumps, coat pakoras"
+  },
+  {
+    "id": "fogr-041",
+    "category": "Food, Grocery & Kitchen Items",
+    "prompt": "Poha",
+    "difficulty": "Hard",
+    "status": "Keep",
+    "actingHint": "Rinse flattened rice, drain, mix with onions/peanuts, fluff"
+  },
+  {
+    "id": "fogr-042",
+    "category": "Food, Grocery & Kitchen Items",
+    "prompt": "Sooji / Semolina",
+    "difficulty": "Hard",
+    "status": "Keep",
+    "actingHint": "Pour fine grain, roast in pan, stir continuously, make halwa/upma"
+  },
+  {
+    "id": "fogr-043",
+    "category": "Food, Grocery & Kitchen Items",
+    "prompt": "Paneer Block",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Cut soft white block into cubes, fry or add to curry"
+  },
+  {
+    "id": "fogr-044",
+    "category": "Food, Grocery & Kitchen Items",
+    "prompt": "Curd / Dahi",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Open tub, stir thick yogurt, taste, make raita gesture"
+  },
+  {
+    "id": "fogr-045",
+    "category": "Food, Grocery & Kitchen Items",
+    "prompt": "Green Chilies",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Pick small chilies, slice, accidentally touch mouth/eyes, spicy reaction"
+  },
+  {
+    "id": "fogr-046",
+    "category": "Food, Grocery & Kitchen Items",
+    "prompt": "Curry Leaves",
+    "difficulty": "Medium-Hard",
+    "status": "Keep",
+    "actingHint": "Pluck leaves, throw into hot oil, sudden sizzling reaction"
+  },
+  {
+    "id": "fogr-047",
+    "category": "Food, Grocery & Kitchen Items",
+    "prompt": "Cardamom / Elaichi",
+    "difficulty": "Hard",
+    "status": "Keep",
+    "actingHint": "Crack tiny pod, smell seeds, add to chai"
+  },
+  {
+    "id": "fogr-048",
+    "category": "Food, Grocery & Kitchen Items",
+    "prompt": "Cloves / Laung",
+    "difficulty": "Hard",
+    "status": "Keep",
+    "actingHint": "Show tiny nail-shaped spice, smell it, add few pieces to pot"
+  },
+  {
+    "id": "fogr-049",
+    "category": "Food, Grocery & Kitchen Items",
+    "prompt": "Cinnamon Stick / Dalchini",
+    "difficulty": "Medium-Hard",
+    "status": "Keep",
+    "actingHint": "Break/hold stick, smell sweet spice, drop into tea/curry"
+  },
+  {
+    "id": "fogr-050",
+    "category": "Food, Grocery & Kitchen Items",
+    "prompt": "Air Fryer",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Open basket, put snacks in, set timer, shake basket midway"
+  },
+  {
+    "id": "fogr-051",
+    "category": "Food, Grocery & Kitchen Items",
+    "prompt": "Idli Stand",
+    "difficulty": "Medium-Hard",
+    "status": "Keep",
+    "actingHint": "Grease round molds, pour batter, stack trays, steam"
+  },
+  {
+    "id": "fogr-052",
+    "category": "Food, Grocery & Kitchen Items",
+    "prompt": "Chakla / Rolling Board",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Place dough on round board, roll roti, dust flour"
+  },
+  {
+    "id": "fogr-053",
+    "category": "Food, Grocery & Kitchen Items",
+    "prompt": "Dishwasher Tablet",
+    "difficulty": "Medium-Hard",
+    "status": "Keep",
+    "actingHint": "Open dishwasher, place tiny tablet, close door, press start"
+  },
+  {
+    "id": "fogr-054",
+    "category": "Food, Grocery & Kitchen Items",
+    "prompt": "Garlic Press",
+    "difficulty": "Medium-Hard",
+    "status": "Keep",
+    "actingHint": "Put clove inside, squeeze handles hard, scrape minced garlic"
+  },
+  {
+    "id": "fapl-001",
+    "category": "Famous Places & Landmarks",
+    "prompt": "Burj Khalifa",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Stretch extremely tall, look upward, elevator rising fast, Dubai gesture"
+  },
+  {
+    "id": "fapl-002",
+    "category": "Famous Places & Landmarks",
+    "prompt": "Eiffel Tower",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Form tower shape with arms, Paris romance/photo pose"
+  },
+  {
+    "id": "fapl-003",
+    "category": "Famous Places & Landmarks",
+    "prompt": "Taj Mahal",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Dome shape, love/romance, royal monument pose"
+  },
+  {
+    "id": "fapl-004",
+    "category": "Famous Places & Landmarks",
+    "prompt": "Times Square",
+    "difficulty": "Medium-Hard",
+    "status": "Keep",
+    "actingHint": "Huge screens, crowds, taking photos, New York excitement"
+  },
+  {
+    "id": "fapl-005",
+    "category": "Famous Places & Landmarks",
+    "prompt": "Statue of Liberty",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Hold torch high, crown gesture, stand still like statue"
+  },
+  {
+    "id": "fapl-006",
+    "category": "Famous Places & Landmarks",
+    "prompt": "Niagara Falls",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Massive waterfall with arms, mist, boat/raincoat reaction"
+  },
+  {
+    "id": "fapl-007",
+    "category": "Famous Places & Landmarks",
+    "prompt": "Great Wall of China",
+    "difficulty": "Medium-Hard",
+    "status": "Keep",
+    "actingHint": "Build long wall, march along it, show enormous distance"
+  },
+  {
+    "id": "fapl-008",
+    "category": "Famous Places & Landmarks",
+    "prompt": "Leaning Tower of Pisa",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Stand like tower, slowly lean sideways without falling"
+  },
+  {
+    "id": "fapl-009",
+    "category": "Famous Places & Landmarks",
+    "prompt": "Golden Gate Bridge",
+    "difficulty": "Medium-Hard",
+    "status": "Keep",
+    "actingHint": "Create suspension bridge shape, cars crossing, windy bay"
+  },
+  {
+    "id": "fapl-010",
+    "category": "Famous Places & Landmarks",
+    "prompt": "Hollywood Sign",
+    "difficulty": "Medium-Hard",
+    "status": "Keep",
+    "actingHint": "Point to hillside letters, movie camera, celebrity pose"
+  },
+  {
+    "id": "fapl-011",
+    "category": "Famous Places & Landmarks",
+    "prompt": "Sydney Opera House",
+    "difficulty": "Hard",
+    "status": "Keep",
+    "actingHint": "Make sail-shaped roof with hands, singing/opera gesture"
+  },
+  {
+    "id": "fapl-012",
+    "category": "Famous Places & Landmarks",
+    "prompt": "Mount Everest",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Climb steep mountain, freezing, oxygen mask, summit flag"
+  },
+  {
+    "id": "fapl-013",
+    "category": "Famous Places & Landmarks",
+    "prompt": "London Eye",
+    "difficulty": "Medium-Hard",
+    "status": "Keep",
+    "actingHint": "Make giant wheel circle, ride cabin, view city from high above"
+  },
+  {
+    "id": "fapl-014",
+    "category": "Famous Places & Landmarks",
+    "prompt": "Colosseum",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Gladiator fight, giant arena, cheering crowd"
+  },
+  {
+    "id": "fapl-015",
+    "category": "Famous Places & Landmarks",
+    "prompt": "Pyramids of Giza",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Form triangle/pyramid, desert heat, mummy/pharaoh clue"
+  },
+  {
+    "id": "fapl-016",
+    "category": "Famous Places & Landmarks",
+    "prompt": "Big Ben",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Tall clock tower, point to wrist/watch, bell striking"
+  },
+  {
+    "id": "fapl-017",
+    "category": "Famous Places & Landmarks",
+    "prompt": "CN Tower",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Very tall tower, elevator/viewing deck, Toronto clue"
+  },
+  {
+    "id": "fapl-018",
+    "category": "Famous Places & Landmarks",
+    "prompt": "Grand Canyon",
+    "difficulty": "Medium-Hard",
+    "status": "Keep",
+    "actingHint": "Show enormous gap, look down, hiking along cliff"
+  },
+  {
+    "id": "fapl-019",
+    "category": "Famous Places & Landmarks",
+    "prompt": "Venice Gondola",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Row gondola, narrow canals, romantic ride"
+  },
+  {
+    "id": "fapl-020",
+    "category": "Famous Places & Landmarks",
+    "prompt": "Las Vegas Strip",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Casino, slot machine, bright lights, showgirl/glamour"
+  },
+  {
+    "id": "fapl-021",
+    "category": "Famous Places & Landmarks",
+    "prompt": "India Gate",
+    "difficulty": "Medium-Hard",
+    "status": "Keep",
+    "actingHint": "Make arch shape, salute/memorial, Delhi clue"
+  },
+  {
+    "id": "fapl-022",
+    "category": "Famous Places & Landmarks",
+    "prompt": "Gateway of India",
+    "difficulty": "Medium-Hard",
+    "status": "Keep",
+    "actingHint": "Large arch by water, boat arrival, Mumbai clue"
+  },
+  {
+    "id": "fapl-023",
+    "category": "Famous Places & Landmarks",
+    "prompt": "Golden Temple",
+    "difficulty": "Medium-Hard",
+    "status": "Keep",
+    "actingHint": "Hands in prayer, water pool, golden shrine"
+  },
+  {
+    "id": "fapl-024",
+    "category": "Famous Places & Landmarks",
+    "prompt": "Charminar",
+    "difficulty": "Hard",
+    "status": "Keep",
+    "actingHint": "Show four towers, old-city monument, Hyderabad clue"
+  },
+  {
+    "id": "fapl-025",
+    "category": "Famous Places & Landmarks",
+    "prompt": "Machu Picchu",
+    "difficulty": "Hard",
+    "status": "Keep",
+    "actingHint": "Climb mountain ruins, ancient stone city, tourist photo"
+  },
+  {
+    "id": "fapl-026",
+    "category": "Famous Places & Landmarks",
+    "prompt": "Stonehenge",
+    "difficulty": "Hard",
+    "status": "Keep",
+    "actingHint": "Stand like giant stones, arrange circle, mystery gesture"
+  },
+  {
+    "id": "fapl-027",
+    "category": "Famous Places & Landmarks",
+    "prompt": "Petra",
+    "difficulty": "Hard",
+    "status": "Keep",
+    "actingHint": "Carve doorway into rock, desert walk, grand entrance"
+  },
+  {
+    "id": "fapl-028",
+    "category": "Famous Places & Landmarks",
+    "prompt": "Christ the Redeemer",
+    "difficulty": "Medium-Hard",
+    "status": "Keep",
+    "actingHint": "Stand arms stretched wide on mountain, Rio clue"
+  },
+  {
+    "id": "fapl-029",
+    "category": "Famous Places & Landmarks",
+    "prompt": "Louvre Museum",
+    "difficulty": "Medium-Hard",
+    "status": "Keep",
+    "actingHint": "Frame painting, admire art, Mona Lisa smile"
+  },
+  {
+    "id": "pr&-001",
+    "category": "Professions & Roles",
+    "prompt": "Dentist",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Recline patient, inspect teeth, drill, patient flinches"
+  },
+  {
+    "id": "pr&-002",
+    "category": "Professions & Roles",
+    "prompt": "Barber",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Cape customer, scissors, comb, mirror reveal"
+  },
+  {
+    "id": "pr&-003",
+    "category": "Professions & Roles",
+    "prompt": "Traffic Police Officer",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Whistle gesture, stop cars, wave traffic through"
+  },
+  {
+    "id": "pr&-004",
+    "category": "Professions & Roles",
+    "prompt": "Wedding Photographer",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Pose couple, crouch for angle, rapid photos, direct family"
+  },
+  {
+    "id": "pr&-005",
+    "category": "Professions & Roles",
+    "prompt": "DJ",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Headphones, mix turntables, raise crowd energy"
+  },
+  {
+    "id": "pr&-006",
+    "category": "Professions & Roles",
+    "prompt": "Magician",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Top hat, wand, reveal surprise, dramatic bow"
+  },
+  {
+    "id": "pr&-007",
+    "category": "Professions & Roles",
+    "prompt": "Yoga Instructor",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Demonstrate pose, deep breathing, correct student posture"
+  },
+  {
+    "id": "pr&-008",
+    "category": "Professions & Roles",
+    "prompt": "Airport Security Officer",
+    "difficulty": "Medium-Hard",
+    "status": "Keep",
+    "actingHint": "Check bag, metal detector, body scan, remove items"
+  },
+  {
+    "id": "pr&-009",
+    "category": "Professions & Roles",
+    "prompt": "News Reporter",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Hold microphone, serious live report, point behind"
+  },
+  {
+    "id": "pr&-010",
+    "category": "Professions & Roles",
+    "prompt": "Waiter Carrying Too Many Plates",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Balance multiple plates, weave through crowd, near spill"
+  },
+  {
+    "id": "pr&-011",
+    "category": "Professions & Roles",
+    "prompt": "Tailor",
+    "difficulty": "Medium-Hard",
+    "status": "Keep",
+    "actingHint": "Measure body, cut fabric, stitch, fitting adjustment"
+  },
+  {
+    "id": "pr&-012",
+    "category": "Professions & Roles",
+    "prompt": "Electrician",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Inspect switch, get shock, use screwdriver, fix wiring"
+  },
+  {
+    "id": "pr&-013",
+    "category": "Professions & Roles",
+    "prompt": "Plumber",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Crawl under sink, wrench pipe, sudden water spray"
+  },
+  {
+    "id": "pr&-014",
+    "category": "Professions & Roles",
+    "prompt": "Driving Instructor",
+    "difficulty": "Medium-Hard",
+    "status": "Keep",
+    "actingHint": "Hold imaginary steering wheel, brake suddenly, correct student"
+  },
+  {
+    "id": "pr&-015",
+    "category": "Professions & Roles",
+    "prompt": "Meteorologist",
+    "difficulty": "Medium-Hard",
+    "status": "Keep",
+    "actingHint": "Point to weather map, show rain/sun/wind forecast"
+  },
+  {
+    "id": "pr&-016",
+    "category": "Professions & Roles",
+    "prompt": "Barista",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Grind coffee, steam milk, make latte art"
+  },
+  {
+    "id": "pr&-017",
+    "category": "Professions & Roles",
+    "prompt": "Librarian",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Shelve books, shush people, stamp/scan book"
+  },
+  {
+    "id": "pr&-018",
+    "category": "Professions & Roles",
+    "prompt": "Detective",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Magnifying glass, inspect clues, suspicious look"
+  },
+  {
+    "id": "pr&-019",
+    "category": "Professions & Roles",
+    "prompt": "Chef on Live Cooking Show",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Chop quickly, plate food, present to camera"
+  },
+  {
+    "id": "te&-001",
+    "category": "Technology & Apps",
+    "prompt": "Google Maps",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Look at phone, follow arrows, miss turn, recalculate"
+  },
+  {
+    "id": "te&-002",
+    "category": "Technology & Apps",
+    "prompt": "WhatsApp Voice Note",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Hold phone near mouth, record long message, playback"
+  },
+  {
+    "id": "te&-003",
+    "category": "Technology & Apps",
+    "prompt": "FaceTime",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Hold phone, wave at screen, bad angle, reconnect"
+  },
+  {
+    "id": "te&-004",
+    "category": "Technology & Apps",
+    "prompt": "Zoom Meeting",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Laptop call, mute/unmute confusion, frozen screen"
+  },
+  {
+    "id": "te&-005",
+    "category": "Technology & Apps",
+    "prompt": "Selfie Filter",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Pose for selfie, face transforms, swipe filters"
+  },
+  {
+    "id": "te&-006",
+    "category": "Technology & Apps",
+    "prompt": "QR Code",
+    "difficulty": "Medium-Hard",
+    "status": "Keep",
+    "actingHint": "Point camera at square code, wait, link opens"
+  },
+  {
+    "id": "te&-007",
+    "category": "Technology & Apps",
+    "prompt": "Password Reset",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Type password, rejected, email code, new password"
+  },
+  {
+    "id": "te&-008",
+    "category": "Technology & Apps",
+    "prompt": "Low Battery",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Phone dying, panic, search charger, plug in"
+  },
+  {
+    "id": "te&-009",
+    "category": "Technology & Apps",
+    "prompt": "AirDrop",
+    "difficulty": "Medium-Hard",
+    "status": "Keep",
+    "actingHint": "Select photo, send through air, waiting for accept"
+  },
+  {
+    "id": "te&-010",
+    "category": "Technology & Apps",
+    "prompt": "Autocorrect",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Type message, see wrong word, shocked, frantic correction"
+  },
+  {
+    "id": "te&-011",
+    "category": "Technology & Apps",
+    "prompt": "Face ID",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Hold phone to face, fails, adjust angle, unlock"
+  },
+  {
+    "id": "te&-012",
+    "category": "Technology & Apps",
+    "prompt": "Two-Factor Authentication",
+    "difficulty": "Hard",
+    "status": "Keep",
+    "actingHint": "Login, receive code, switch apps, enter numbers"
+  },
+  {
+    "id": "te&-013",
+    "category": "Technology & Apps",
+    "prompt": "Bluetooth Pairing",
+    "difficulty": "Medium-Hard",
+    "status": "Keep",
+    "actingHint": "Search device, connect, fail, toggle settings, success"
+  },
+  {
+    "id": "te&-014",
+    "category": "Technology & Apps",
+    "prompt": "Screen Rotation Lock",
+    "difficulty": "Hard",
+    "status": "Keep",
+    "actingHint": "Turn phone sideways, screen refuses, toggle lock"
+  },
+  {
+    "id": "te&-015",
+    "category": "Technology & Apps",
+    "prompt": "Wi-Fi Not Working",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Check phone, restart router, move closer, frustration"
+  },
+  {
+    "id": "te&-016",
+    "category": "Technology & Apps",
+    "prompt": "Voice Assistant",
+    "difficulty": "Medium-Hard",
+    "status": "Keep",
+    "actingHint": "Speak to device, wait, wrong response, repeat clearly"
+  },
+  {
+    "id": "te&-017",
+    "category": "Technology & Apps",
+    "prompt": "Smart Doorbell",
+    "difficulty": "Medium-Hard",
+    "status": "Keep",
+    "actingHint": "Phone alert, view visitor, speak through doorbell"
+  },
+  {
+    "id": "te&-018",
+    "category": "Technology & Apps",
+    "prompt": "Fitness Tracker",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Check wrist, count steps, celebrate goal"
+  },
+  {
+    "id": "te&-019",
+    "category": "Technology & Apps",
+    "prompt": "Auto-Rotate Screen",
+    "difficulty": "Medium-Hard",
+    "status": "Keep",
+    "actingHint": "Turn phone repeatedly, screen refuses then flips"
+  },
+  {
+    "id": "inwe-001",
+    "category": "Indian Weddings & Family",
+    "prompt": "Baraat",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Dance in procession, drums, groom riding horse"
+  },
+  {
+    "id": "inwe-002",
+    "category": "Indian Weddings & Family",
+    "prompt": "Varmala / Jaimala",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Bride/groom exchange garlands, playful height struggle"
+  },
+  {
+    "id": "inwe-003",
+    "category": "Indian Weddings & Family",
+    "prompt": "Mehndi Ceremony",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Apply henna, hold hands carefully, dance around"
+  },
+  {
+    "id": "inwe-004",
+    "category": "Indian Weddings & Family",
+    "prompt": "Sangeet",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Family dance performance, rehearsed steps, cheering"
+  },
+  {
+    "id": "inwe-005",
+    "category": "Indian Weddings & Family",
+    "prompt": "Groom on Horse",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Ride imaginary horse, wedding turban, proud procession"
+  },
+  {
+    "id": "inwe-006",
+    "category": "Indian Weddings & Family",
+    "prompt": "Relative Taking Too Many Photos",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Pose everyone, retake repeatedly, move people around"
+  },
+  {
+    "id": "inwe-007",
+    "category": "Indian Weddings & Family",
+    "prompt": "Auntie Serving Too Much Food",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Pile food on plate despite refusal, insist lovingly"
+  },
+  {
+    "id": "inwe-008",
+    "category": "Indian Weddings & Family",
+    "prompt": "Family WhatsApp Group",
+    "difficulty": "Medium-Hard",
+    "status": "Keep",
+    "actingHint": "Read endless messages, forward greetings, notifications nonstop"
+  },
+  {
+    "id": "inwe-009",
+    "category": "Indian Weddings & Family",
+    "prompt": "Touching Elders' Feet",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Bend to touch feet, elder blesses head"
+  },
+  {
+    "id": "inwe-010",
+    "category": "Indian Weddings & Family",
+    "prompt": "Joota Chupai",
+    "difficulty": "Medium-Hard",
+    "status": "Keep",
+    "actingHint": "Steal groom's shoes, hide them, bargain for money"
+  },
+  {
+    "id": "inwe-011",
+    "category": "Indian Weddings & Family",
+    "prompt": "Wedding Buffet Queue",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Hold plate, wait impatiently, inspect dishes, pile food"
+  },
+  {
+    "id": "inwe-012",
+    "category": "Indian Weddings & Family",
+    "prompt": "Relative Asking When You Will Marry",
+    "difficulty": "Medium-Hard",
+    "status": "Keep",
+    "actingHint": "Point to ring, couple gesture, awkward smile, escape"
+  },
+  {
+    "id": "inwe-013",
+    "category": "Indian Weddings & Family",
+    "prompt": "Dance Practice Before Wedding",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Count steps, forget choreography, restart repeatedly"
+  },
+  {
+    "id": "inwe-014",
+    "category": "Indian Weddings & Family",
+    "prompt": "Milni",
+    "difficulty": "Hard",
+    "status": "Keep",
+    "actingHint": "Two families greet, hug, garland, compare relatives"
+  },
+  {
+    "id": "inwe-015",
+    "category": "Indian Weddings & Family",
+    "prompt": "Bride's Entry",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Walk slowly under floral canopy, family dancing around"
+  },
+  {
+    "id": "inwe-016",
+    "category": "Indian Weddings & Family",
+    "prompt": "Sehra Bandi",
+    "difficulty": "Medium-Hard",
+    "status": "Keep",
+    "actingHint": "Tie groom's turban/sehra, adjust veil strands"
+  },
+  {
+    "id": "inwe-017",
+    "category": "Indian Weddings & Family",
+    "prompt": "Wedding Shoe Bargaining",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Hide shoes, demand money, negotiate dramatically"
+  },
+  {
+    "id": "inwe-018",
+    "category": "Indian Weddings & Family",
+    "prompt": "Family Dance Rehearsal Gone Wrong",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Count steps, collide, forget moves, restart"
+  },
+  {
+    "id": "inwe-019",
+    "category": "Indian Weddings & Family",
+    "prompt": "Cousin Managing Wedding Guests",
+    "difficulty": "Medium-Hard",
+    "status": "Keep",
+    "actingHint": "Point people to seats, answer calls, carry lists, panic"
+  },
+  {
+    "id": "sp&-001",
+    "category": "Sports & Games",
+    "prompt": "Badminton Smash",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Serve, rally, jump smash, celebrate point"
+  },
+  {
+    "id": "sp&-002",
+    "category": "Sports & Games",
+    "prompt": "Cricket Umpire",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Signal six, four, out, wide, review decision"
+  },
+  {
+    "id": "sp&-003",
+    "category": "Sports & Games",
+    "prompt": "Goalkeeper",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Guard goal, dive left/right, save penalty"
+  },
+  {
+    "id": "sp&-004",
+    "category": "Sports & Games",
+    "prompt": "Penalty Kick",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Place ball, run up, shoot, goalkeeper dive"
+  },
+  {
+    "id": "sp&-005",
+    "category": "Sports & Games",
+    "prompt": "Kabaddi",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Crouch, tag opponent, hold breath, escape defenders"
+  },
+  {
+    "id": "sp&-006",
+    "category": "Sports & Games",
+    "prompt": "Table Tennis",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Tiny paddle, rapid back-and-forth rally, edge shot"
+  },
+  {
+    "id": "sp&-007",
+    "category": "Sports & Games",
+    "prompt": "Bowling",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Heavy ball, run-up, roll, watch pins fall"
+  },
+  {
+    "id": "sp&-008",
+    "category": "Sports & Games",
+    "prompt": "Golf",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Line up putt, swing, watch ball, disappointed reaction"
+  },
+  {
+    "id": "sp&-009",
+    "category": "Sports & Games",
+    "prompt": "Carrom",
+    "difficulty": "Medium-Hard",
+    "status": "Keep",
+    "actingHint": "Flick striker, aim coins, queen pocket, powder board"
+  },
+  {
+    "id": "sp&-010",
+    "category": "Sports & Games",
+    "prompt": "Chess",
+    "difficulty": "Medium-Hard",
+    "status": "Keep",
+    "actingHint": "Move pieces thoughtfully, clock press, checkmate reaction"
+  },
+  {
+    "id": "sp&-011",
+    "category": "Sports & Games",
+    "prompt": "Tennis Serve",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Bounce ball, toss high, overhead serve, rally"
+  },
+  {
+    "id": "sp&-012",
+    "category": "Sports & Games",
+    "prompt": "Boxing Referee",
+    "difficulty": "Medium-Hard",
+    "status": "Keep",
+    "actingHint": "Separate fighters, count knockdown, raise winner's hand"
+  },
+  {
+    "id": "sp&-013",
+    "category": "Sports & Games",
+    "prompt": "Weightlifting",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Chalk hands, heavy lift, struggle overhead, drop bar"
+  },
+  {
+    "id": "sp&-014",
+    "category": "Sports & Games",
+    "prompt": "Archery",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Draw bow, aim carefully, release, check target"
+  },
+  {
+    "id": "sp&-015",
+    "category": "Sports & Games",
+    "prompt": "Curling",
+    "difficulty": "Medium-Hard",
+    "status": "Keep",
+    "actingHint": "Slide stone on ice, teammates sweep furiously"
+  },
+  {
+    "id": "sp&-016",
+    "category": "Sports & Games",
+    "prompt": "Baseball Catcher",
+    "difficulty": "Medium-Hard",
+    "status": "Keep",
+    "actingHint": "Crouch behind batter, catch pitch, signal pitcher"
+  },
+  {
+    "id": "sp&-017",
+    "category": "Sports & Games",
+    "prompt": "Hockey Goalie",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Wear imaginary pads, guard net, block slapshot"
+  },
+  {
+    "id": "sp&-018",
+    "category": "Sports & Games",
+    "prompt": "Darts",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Aim carefully, throw tiny dart, check scoreboard"
+  },
+  {
+    "id": "sp&-019",
+    "category": "Sports & Games",
+    "prompt": "Rock Climbing",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Clip rope, search holds, pull body upward"
+  },
+  {
+    "id": "tr&-001",
+    "category": "Travel & Airport",
+    "prompt": "Baggage Carousel",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Wait for suitcase, watch bags circle, grab wrong one"
+  },
+  {
+    "id": "tr&-002",
+    "category": "Travel & Airport",
+    "prompt": "Immigration Officer",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Inspect passport, ask questions silently, stamp approval"
+  },
+  {
+    "id": "tr&-003",
+    "category": "Travel & Airport",
+    "prompt": "Security Check",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Remove belt/shoes, tray items, walk through scanner"
+  },
+  {
+    "id": "tr&-004",
+    "category": "Travel & Airport",
+    "prompt": "Airplane Turbulence",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Sit with seatbelt, sudden shaking, grip armrests"
+  },
+  {
+    "id": "tr&-005",
+    "category": "Travel & Airport",
+    "prompt": "Middle Seat on Airplane",
+    "difficulty": "Medium-Hard",
+    "status": "Keep",
+    "actingHint": "Squeezed between two people, struggle for armrests"
+  },
+  {
+    "id": "tr&-006",
+    "category": "Travel & Airport",
+    "prompt": "Lost Luggage",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Wait at carousel, bags finish, panic, complaint counter"
+  },
+  {
+    "id": "tr&-007",
+    "category": "Travel & Airport",
+    "prompt": "Passport Control",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Present passport, camera face scan, stamp, proceed"
+  },
+  {
+    "id": "tr&-008",
+    "category": "Travel & Airport",
+    "prompt": "Escalator with Suitcase",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Balance bag on step, wobble, struggle at exit"
+  },
+  {
+    "id": "tr&-009",
+    "category": "Travel & Airport",
+    "prompt": "Overweight Suitcase",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Lift onto scale, shocked at weight, remove clothes"
+  },
+  {
+    "id": "tr&-010",
+    "category": "Travel & Airport",
+    "prompt": "Airport Announcement",
+    "difficulty": "Medium-Hard",
+    "status": "Keep",
+    "actingHint": "Listen overhead, check boarding pass, run suddenly"
+  },
+  {
+    "id": "tr&-011",
+    "category": "Travel & Airport",
+    "prompt": "Window Seat",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Look outside, take photos, shade up/down, squeeze past others"
+  },
+  {
+    "id": "tr&-012",
+    "category": "Travel & Airport",
+    "prompt": "Reclining Airplane Seat",
+    "difficulty": "Medium-Hard",
+    "status": "Keep",
+    "actingHint": "Try to recline, person behind objects, awkward compromise"
+  },
+  {
+    "id": "tr&-013",
+    "category": "Travel & Airport",
+    "prompt": "Boarding Gate Change",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Check screen, realize new gate, sprint with luggage"
+  },
+  {
+    "id": "tr&-014",
+    "category": "Travel & Airport",
+    "prompt": "Hotel Key Card Not Working",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Tap/swipe card, red light, retry, frustration"
+  },
+  {
+    "id": "tr&-015",
+    "category": "Travel & Airport",
+    "prompt": "Hotel Check-In",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Roll suitcase, hand passport/card, receive key"
+  },
+  {
+    "id": "tr&-016",
+    "category": "Travel & Airport",
+    "prompt": "Missed Connecting Flight",
+    "difficulty": "Medium-Hard",
+    "status": "Keep",
+    "actingHint": "Run, check watch, see gate closed, despair"
+  },
+  {
+    "id": "tr&-017",
+    "category": "Travel & Airport",
+    "prompt": "Airplane Overhead Bin Full",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Lift bag, search space, try another bin"
+  },
+  {
+    "id": "tr&-018",
+    "category": "Travel & Airport",
+    "prompt": "Rental Car Counter",
+    "difficulty": "Medium-Hard",
+    "status": "Keep",
+    "actingHint": "Show license, sign forms, receive keys, inspect car"
+  },
+  {
+    "id": "tr&-019",
+    "category": "Travel & Airport",
+    "prompt": "Souvenir Shopping",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Pick tiny gifts, compare prices, carry tourist bags"
   },
   {
     "id": "anwi-001",
     "category": "Animals with a Twist",
     "prompt": "Peacock Dancing",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Spread imaginary feathers, strut, shake tail"
   },
   {
     "id": "anwi-002",
     "category": "Animals with a Twist",
     "prompt": "Monkey Stealing Food",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Sneak, grab snack, run away, eat while watching owner"
   },
   {
     "id": "anwi-003",
     "category": "Animals with a Twist",
     "prompt": "Camel Ride",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Mount tall animal, sway dramatically, bumpy ride"
   },
   {
     "id": "anwi-004",
     "category": "Animals with a Twist",
     "prompt": "Mosquito at Night",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Buzz around sleeper, dodge swats, land again"
   },
   {
     "id": "anwi-005",
     "category": "Animals with a Twist",
     "prompt": "Dog Chasing Its Tail",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Spin in circles, almost catch tail, dizzy stop"
   },
   {
     "id": "anwi-006",
     "category": "Animals with a Twist",
     "prompt": "Cat Afraid of Cucumber",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Eat calmly, notice object, leap backward dramatically"
   },
   {
     "id": "anwi-007",
     "category": "Animals with a Twist",
     "prompt": "Penguin Walking",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Waddle stiffly, flap arms, slide on ice"
   },
   {
     "id": "anwi-008",
     "category": "Animals with a Twist",
     "prompt": "Goat Eating Everything",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Chew paper/clothes, tug object, stubborn stance"
   },
   {
     "id": "anwi-009",
     "category": "Animals with a Twist",
     "prompt": "Cow Blocking Traffic",
     "difficulty": "Medium-Hard",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Stand calmly in road, cars honk, chew slowly"
   },
   {
     "id": "anwi-010",
     "category": "Animals with a Twist",
     "prompt": "Squirrel Hiding Nuts",
     "difficulty": "Medium-Hard",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Gather tiny nuts, bury them, forget location"
   },
   {
     "id": "anwi-011",
     "category": "Animals with a Twist",
     "prompt": "Parrot Copying People",
     "difficulty": "Medium-Hard",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Perch, mimic gestures, repeat silently, tilt head"
   },
   {
     "id": "anwi-012",
     "category": "Animals with a Twist",
     "prompt": "Elephant Taking a Shower",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Use trunk as hose, spray water, flap ears"
   },
   {
     "id": "anwi-013",
     "category": "Animals with a Twist",
     "prompt": "Crab Walking Sideways",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Pinch claws, walk sideways, dodge obstacles"
   },
   {
     "id": "anwi-014",
     "category": "Animals with a Twist",
     "prompt": "Ostrich Hiding Its Head",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Run, panic, bury head, body still visible"
   },
   {
     "id": "anwi-015",
     "category": "Animals with a Twist",
     "prompt": "Flamingo Standing on One Leg",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Balance on one leg, long neck, elegant pose"
   },
   {
     "id": "anwi-016",
     "category": "Animals with a Twist",
     "prompt": "Sloth Moving Extremely Slowly",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Reach very slowly, yawn, hang lazily"
   },
   {
     "id": "anwi-017",
     "category": "Animals with a Twist",
     "prompt": "Kangaroo with a Baby",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Hop, show pouch, protect baby"
   },
   {
     "id": "anwi-018",
     "category": "Animals with a Twist",
     "prompt": "Chameleon Changing Color",
     "difficulty": "Medium-Hard",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Crawl slowly, look around, blend into background"
   },
   {
     "id": "anwi-019",
     "category": "Animals with a Twist",
     "prompt": "Raccoon Opening a Trash Can",
     "difficulty": "Medium",
-    "status": "Keep"
-  },
-  {
-    "id": "on&-001",
-    "category": "One-Word & Object Prompts",
-    "prompt": "Ceiling Fan",
-    "difficulty": "Medium",
-    "status": "Keep"
-  },
-  {
-    "id": "on&-002",
-    "category": "One-Word & Object Prompts",
-    "prompt": "Pressure Cooker Whistle",
-    "difficulty": "Medium-Hard",
-    "status": "Keep"
-  },
-  {
-    "id": "on&-003",
-    "category": "One-Word & Object Prompts",
-    "prompt": "Alarm Clock",
-    "difficulty": "Medium",
-    "status": "Keep"
-  },
-  {
-    "id": "on&-004",
-    "category": "One-Word & Object Prompts",
-    "prompt": "Selfie Stick",
-    "difficulty": "Medium",
-    "status": "Keep"
-  },
-  {
-    "id": "on&-005",
-    "category": "One-Word & Object Prompts",
-    "prompt": "Mosquito Racket",
-    "difficulty": "Medium-Hard",
-    "status": "Keep"
-  },
-  {
-    "id": "on&-006",
-    "category": "One-Word & Object Prompts",
-    "prompt": "Stethoscope",
-    "difficulty": "Medium",
-    "status": "Keep"
-  },
-  {
-    "id": "on&-007",
-    "category": "One-Word & Object Prompts",
-    "prompt": "Toaster",
-    "difficulty": "Medium",
-    "status": "Keep"
-  },
-  {
-    "id": "bope-001",
-    "category": "Bollywood People & Relations",
-    "prompt": "Amitabh Bachchan",
-    "difficulty": "Medium",
-    "status": "Keep"
-  },
-  {
-    "id": "bope-002",
-    "category": "Bollywood People & Relations",
-    "prompt": "Gabbar Singh",
-    "difficulty": "Medium",
-    "status": "Keep"
-  },
-  {
-    "id": "bope-003",
-    "category": "Bollywood People & Relations",
-    "prompt": "Shah Rukh Khan in DDLJ",
-    "difficulty": "Medium-Hard",
-    "status": "Keep"
-  },
-  {
-    "id": "bope-004",
-    "category": "Bollywood People & Relations",
-    "prompt": "Raj Kapoor",
-    "difficulty": "Medium-Hard",
-    "status": "Keep"
-  },
-  {
-    "id": "bope-005",
-    "category": "Bollywood People & Relations",
-    "prompt": "Dharmendra",
-    "difficulty": "Medium-Hard",
-    "status": "Keep"
-  },
-  {
-    "id": "bope-006",
-    "category": "Bollywood People & Relations",
-    "prompt": "Javed Akhtar",
-    "difficulty": "Hard",
-    "status": "Keep"
-  },
-  {
-    "id": "bope-007",
-    "category": "Bollywood People & Relations",
-    "prompt": "Rakesh Roshan",
-    "difficulty": "Medium-Hard",
-    "status": "Keep"
-  },
-  {
-    "id": "intv-001",
-    "category": "Indian TV & Shows",
-    "prompt": "Taarak Mehta Ka Ooltah Chashmah",
-    "difficulty": "Medium",
-    "status": "Keep"
-  },
-  {
-    "id": "intv-002",
-    "category": "Indian TV & Shows",
-    "prompt": "Kaun Banega Crorepati (Hot Seat)",
-    "difficulty": "Medium",
-    "status": "Keep"
-  },
-  {
-    "id": "intv-003",
-    "category": "Indian TV & Shows",
-    "prompt": "CID (Daya Tod Do Darwaza)",
-    "difficulty": "Medium-Hard",
-    "status": "Keep"
-  },
-  {
-    "id": "intv-004",
-    "category": "Indian TV & Shows",
-    "prompt": "Kyunki Saas Bhi Kabhi Bahu Thi",
-    "difficulty": "Medium-Hard",
-    "status": "Keep"
-  },
-  {
-    "id": "intv-005",
-    "category": "Indian TV & Shows",
-    "prompt": "Indian Idol Audition",
-    "difficulty": "Medium",
-    "status": "Keep"
-  },
-  {
-    "id": "intv-006",
-    "category": "Indian TV & Shows",
-    "prompt": "Naagin Snake Dance",
-    "difficulty": "Medium-Hard",
-    "status": "Keep"
-  },
-  {
-    "id": "fogr-001",
-    "category": "Food, Grocery & Kitchen Items",
-    "prompt": "Gol Gappa / Pani Puri eating contest",
-    "difficulty": "Medium",
-    "status": "Keep"
-  },
-  {
-    "id": "fogr-002",
-    "category": "Food, Grocery & Kitchen Items",
-    "prompt": "Rolling perfectly round rotis",
-    "difficulty": "Medium-Hard",
-    "status": "Keep"
-  },
-  {
-    "id": "fogr-003",
-    "category": "Food, Grocery & Kitchen Items",
-    "prompt": "Flipping an omelette in the air",
-    "difficulty": "Medium",
-    "status": "Keep"
-  },
-  {
-    "id": "fogr-004",
-    "category": "Food, Grocery & Kitchen Items",
-    "prompt": "Tasting raw lemon",
-    "difficulty": "Medium",
-    "status": "Keep"
-  },
-  {
-    "id": "fogr-005",
-    "category": "Food, Grocery & Kitchen Items",
-    "prompt": "Eating hot samosa with red chutney",
-    "difficulty": "Medium",
-    "status": "Keep"
-  },
-  {
-    "id": "fogr-006",
-    "category": "Food, Grocery & Kitchen Items",
-    "prompt": "Grating coconut",
-    "difficulty": "Medium-Hard",
-    "status": "Keep"
-  },
-  {
-    "id": "fapl-001",
-    "category": "Famous Places & Landmarks",
-    "prompt": "Taj Mahal (Taking a pinching photo)",
-    "difficulty": "Medium",
-    "status": "Keep"
-  },
-  {
-    "id": "fapl-002",
-    "category": "Famous Places & Landmarks",
-    "prompt": "India Gate Delhi",
-    "difficulty": "Medium-Hard",
-    "status": "Keep"
-  },
-  {
-    "id": "fapl-003",
-    "category": "Famous Places & Landmarks",
-    "prompt": "Eiffel Tower in Paris",
-    "difficulty": "Medium",
-    "status": "Keep"
-  },
-  {
-    "id": "fapl-004",
-    "category": "Famous Places & Landmarks",
-    "prompt": "Statue of Liberty",
-    "difficulty": "Medium",
-    "status": "Keep"
-  },
-  {
-    "id": "fapl-005",
-    "category": "Famous Places & Landmarks",
-    "prompt": "Marine Drive Mumbai during high tide",
-    "difficulty": "Medium-Hard",
-    "status": "Keep"
-  },
-  {
-    "id": "pr&-001",
-    "category": "Professions & Roles",
-    "prompt": "Traffic Police Officer blowing whistle",
-    "difficulty": "Medium",
-    "status": "Keep"
-  },
-  {
-    "id": "pr&-002",
-    "category": "Professions & Roles",
-    "prompt": "Cricket Umpire giving LBW Out",
-    "difficulty": "Medium",
-    "status": "Keep"
-  },
-  {
-    "id": "pr&-003",
-    "category": "Professions & Roles",
-    "prompt": "Surgeon doing operation",
-    "difficulty": "Medium-Hard",
-    "status": "Keep"
-  },
-  {
-    "id": "pr&-004",
-    "category": "Professions & Roles",
-    "prompt": "Airline Pilot announcing turbulence",
-    "difficulty": "Medium",
-    "status": "Keep"
-  },
-  {
-    "id": "pr&-005",
-    "category": "Professions & Roles",
-    "prompt": "Hairdresser giving an unexpected haircut",
-    "difficulty": "Medium-Hard",
-    "status": "Keep"
-  },
-  {
-    "id": "te&-001",
-    "category": "Technology & Apps",
-    "prompt": "WhatsApp Good Morning Uncle",
-    "difficulty": "Medium-Hard",
-    "status": "Keep"
-  },
-  {
-    "id": "te&-002",
-    "category": "Technology & Apps",
-    "prompt": "Google Maps recalculating route repeatedly",
-    "difficulty": "Hard",
-    "status": "Keep"
-  },
-  {
-    "id": "te&-003",
-    "category": "Technology & Apps",
-    "prompt": "Buffering video at 99%",
-    "difficulty": "Medium",
-    "status": "Keep"
-  },
-  {
-    "id": "te&-004",
-    "category": "Technology & Apps",
-    "prompt": "Face ID failing repeatedly",
-    "difficulty": "Medium",
-    "status": "Keep"
-  },
-  {
-    "id": "te&-005",
-    "category": "Technology & Apps",
-    "prompt": "Phone battery dying at 1%",
-    "difficulty": "Medium",
-    "status": "Keep"
-  },
-  {
-    "id": "inwe-001",
-    "category": "Indian Weddings & Family",
-    "prompt": "Dulha sitting on the Ghodi / Horse",
-    "difficulty": "Medium",
-    "status": "Keep"
-  },
-  {
-    "id": "inwe-002",
-    "category": "Indian Weddings & Family",
-    "prompt": "Joota Chupai (Hiding Groom's Shoes)",
-    "difficulty": "Medium-Hard",
-    "status": "Keep"
-  },
-  {
-    "id": "inwe-003",
-    "category": "Indian Weddings & Family",
-    "prompt": "Milni ceremony lifting the uncle",
-    "difficulty": "Hard",
-    "status": "Keep"
-  },
-  {
-    "id": "inwe-004",
-    "category": "Indian Weddings & Family",
-    "prompt": "Baraat dancing in the middle of traffic",
-    "difficulty": "Medium-Hard",
-    "status": "Keep"
-  },
-  {
-    "id": "inwe-005",
-    "category": "Indian Weddings & Family",
-    "prompt": "Varmala exchange ducking and dodging",
-    "difficulty": "Medium",
-    "status": "Keep"
-  },
-  {
-    "id": "sp&-001",
-    "category": "Sports & Games",
-    "prompt": "Playing Carrom with queen cover",
-    "difficulty": "Medium",
-    "status": "Keep"
-  },
-  {
-    "id": "sp&-002",
-    "category": "Sports & Games",
-    "prompt": "Ludo game argument over rolling sixes",
-    "difficulty": "Medium-Hard",
-    "status": "Keep"
-  },
-  {
-    "id": "sp&-003",
-    "category": "Sports & Games",
-    "prompt": "Bowling a yorker in gully cricket",
-    "difficulty": "Medium",
-    "status": "Keep"
-  },
-  {
-    "id": "sp&-004",
-    "category": "Sports & Games",
-    "prompt": "Table tennis intense rally",
-    "difficulty": "Medium",
-    "status": "Keep"
-  },
-  {
-    "id": "sp&-005",
-    "category": "Sports & Games",
-    "prompt": "Tug of war final pull",
-    "difficulty": "Medium-Hard",
-    "status": "Keep"
-  },
-  {
-    "id": "tr&-001",
-    "category": "Travel & Airport",
-    "prompt": "Airport Security Bag Weight Overlimit",
-    "difficulty": "Medium-Hard",
-    "status": "Keep"
-  },
-  {
-    "id": "tr&-002",
-    "category": "Travel & Airport",
-    "prompt": "Running to catch final boarding call",
-    "difficulty": "Medium",
-    "status": "Keep"
-  },
-  {
-    "id": "tr&-003",
-    "category": "Travel & Airport",
-    "prompt": "Struggling with suitcase broken wheel",
-    "difficulty": "Medium",
-    "status": "Keep"
-  },
-  {
-    "id": "tr&-004",
-    "category": "Travel & Airport",
-    "prompt": "Taking off shoes at airport security",
-    "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Sneak, lift lid, rummage, freeze when caught"
   },
   {
     "id": "br&-001",
     "category": "Brands & Products",
-    "prompt": "Maggi 2-Minute Noodles",
+    "prompt": "Maggi",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Open noodle packet, boil quickly, twirl noodles"
   },
   {
     "id": "br&-002",
     "category": "Brands & Products",
-    "prompt": "Zandu Balm headache rubbing",
-    "difficulty": "Medium",
-    "status": "Keep"
+    "prompt": "Amul Butter",
+    "difficulty": "Medium-Hard",
+    "status": "Keep",
+    "actingHint": "Spread butter on toast, show famous butter-girl pose"
   },
   {
     "id": "br&-003",
     "category": "Brands & Products",
-    "prompt": "Parle-G biscuit dipped in tea melting",
-    "difficulty": "Medium-Hard",
-    "status": "Keep"
+    "prompt": "Parle-G",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Dip biscuit in tea, it breaks and falls inside"
   },
   {
     "id": "br&-004",
     "category": "Brands & Products",
-    "prompt": "Tata Salt pinch",
+    "prompt": "Coca-Cola Bottle",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Open fizzy bottle, bubbles explode, drink cold soda"
+  },
+  {
+    "id": "br&-005",
+    "category": "Brands & Products",
+    "prompt": "Dyson Vacuum",
+    "difficulty": "Medium-Hard",
+    "status": "Keep",
+    "actingHint": "Use sleek cordless vacuum, swap attachment, admire suction"
+  },
+  {
+    "id": "br&-006",
+    "category": "Brands & Products",
+    "prompt": "AirPods",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Put tiny earbuds in, lose one, search frantically"
+  },
+  {
+    "id": "br&-007",
+    "category": "Brands & Products",
+    "prompt": "iPhone",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Face ID, swipe, take photo, show Apple-style phone"
+  },
+  {
+    "id": "br&-008",
+    "category": "Brands & Products",
+    "prompt": "Nutella",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Open jar, spread thick chocolate, lick spoon"
+  },
+  {
+    "id": "br&-009",
+    "category": "Brands & Products",
+    "prompt": "Oreo",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Twist cookie, lick cream, dunk in milk"
+  },
+  {
+    "id": "br&-010",
+    "category": "Brands & Products",
+    "prompt": "Red Bull",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Drink can, suddenly grow wings/fly gesture"
+  },
+  {
+    "id": "br&-011",
+    "category": "Brands & Products",
+    "prompt": "Britannia Good Day",
+    "difficulty": "Medium-Hard",
+    "status": "Keep",
+    "actingHint": "Biscuit with smile, tea dunk, happy reaction"
+  },
+  {
+    "id": "br&-012",
+    "category": "Brands & Products",
+    "prompt": "Fevicol",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Glue two things, hands get stuck together"
+  },
+  {
+    "id": "br&-013",
+    "category": "Brands & Products",
+    "prompt": "Vicks VapoRub",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Rub chest/throat, breathe deeply, congestion relief"
+  },
+  {
+    "id": "br&-014",
+    "category": "Brands & Products",
+    "prompt": "Harpic",
+    "difficulty": "Medium-Hard",
+    "status": "Keep",
+    "actingHint": "Clean toilet, squeeze angled bottle, scrub, inspect shine"
+  },
+  {
+    "id": "br&-015",
+    "category": "Brands & Products",
+    "prompt": "Walmart",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Push shopping cart, compare prices, scan many everyday items"
+  },
+  {
+    "id": "br&-016",
+    "category": "Brands & Products",
+    "prompt": "Costco",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Show membership card, giant cart, oversized packs, free samples"
+  },
+  {
+    "id": "br&-017",
+    "category": "Brands & Products",
+    "prompt": "Amazon",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Order on phone, package arrives at door, open box"
+  },
+  {
+    "id": "br&-018",
+    "category": "Brands & Products",
+    "prompt": "IKEA",
+    "difficulty": "Medium-Hard",
+    "status": "Keep",
+    "actingHint": "Flat-pack box, read instructions, assemble furniture, extra screw left"
+  },
+  {
+    "id": "br&-019",
+    "category": "Brands & Products",
+    "prompt": "Dollarama",
+    "difficulty": "Medium-Hard",
+    "status": "Keep",
+    "actingHint": "Pick many cheap small items, basket fills quickly, checkout surprise"
+  },
+  {
+    "id": "br&-020",
+    "category": "Brands & Products",
+    "prompt": "Tim Hortons",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Order coffee and donut, hold takeout cup, drive-thru gesture"
+  },
+  {
+    "id": "br&-021",
+    "category": "Brands & Products",
+    "prompt": "Netflix",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Hold remote, scroll forever, choose show, binge on couch"
+  },
+  {
+    "id": "br&-022",
+    "category": "Brands & Products",
+    "prompt": "Uber",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Request ride on phone, check license plate, get into car"
+  },
+  {
+    "id": "br&-023",
+    "category": "Brands & Products",
+    "prompt": "Google",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Type/search, scan results, click answer"
+  },
+  {
+    "id": "br&-024",
+    "category": "Brands & Products",
+    "prompt": "YouTube",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Press play, skip ad, subscribe/bell gesture"
   },
   {
     "id": "id&-001",
     "category": "Idioms & Phrases",
-    "prompt": "Naach Na Jaane Aangan Tedha",
-    "difficulty": "Hard",
-    "status": "Keep"
+    "prompt": "Spill the beans",
+    "difficulty": "Medium-Hard",
+    "status": "Keep",
+    "actingHint": "Hold bowl/beans, accidentally spill, reveal secret"
   },
   {
     "id": "id&-002",
     "category": "Idioms & Phrases",
-    "prompt": "Oont Ke Moonh Mein Zeera",
-    "difficulty": "Hard",
-    "status": "Keep"
+    "prompt": "Piece of cake",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Cut/eat cake, show something is very easy"
   },
   {
     "id": "id&-003",
     "category": "Idioms & Phrases",
-    "prompt": "Billi Ke Bhaag Se Chhinka Toota",
-    "difficulty": "Hard",
-    "status": "Keep"
+    "prompt": "Under the weather",
+    "difficulty": "Medium-Hard",
+    "status": "Keep",
+    "actingHint": "Stand under rain cloud, feel sick"
   },
   {
     "id": "id&-004",
     "category": "Idioms & Phrases",
-    "prompt": "Ghar Ki Murgi Daal Barabar",
+    "prompt": "Break a leg",
     "difficulty": "Hard",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Pretend leg snaps, then stage/performance good-luck gesture"
+  },
+  {
+    "id": "id&-005",
+    "category": "Idioms & Phrases",
+    "prompt": "On cloud nine",
+    "difficulty": "Hard",
+    "status": "Keep",
+    "actingHint": "Float happily on cloud, show number nine"
+  },
+  {
+    "id": "id&-006",
+    "category": "Idioms & Phrases",
+    "prompt": "Let the cat out of the bag",
+    "difficulty": "Medium-Hard",
+    "status": "Keep",
+    "actingHint": "Open bag, cat jumps out, secret revealed"
+  },
+  {
+    "id": "id&-007",
+    "category": "Idioms & Phrases",
+    "prompt": "When pigs fly",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Pig snout + flap wings + fly"
+  },
+  {
+    "id": "id&-008",
+    "category": "Idioms & Phrases",
+    "prompt": "Cost an arm and a leg",
+    "difficulty": "Medium-Hard",
+    "status": "Keep",
+    "actingHint": "Pay money, point to arm and leg, shocked at price"
+  },
+  {
+    "id": "id&-009",
+    "category": "Idioms & Phrases",
+    "prompt": "Burning the midnight oil",
+    "difficulty": "Hard",
+    "status": "Keep",
+    "actingHint": "Clock midnight, lamp/oil, working late"
+  },
+  {
+    "id": "id&-010",
+    "category": "Idioms & Phrases",
+    "prompt": "The ball is in your court",
+    "difficulty": "Medium-Hard",
+    "status": "Keep",
+    "actingHint": "Toss ball across court, point to other person"
+  },
+  {
+    "id": "id&-011",
+    "category": "Idioms & Phrases",
+    "prompt": "Bite the bullet",
+    "difficulty": "Hard",
+    "status": "Keep",
+    "actingHint": "Hold bullet, bite reluctantly, endure pain"
+  },
+  {
+    "id": "id&-012",
+    "category": "Idioms & Phrases",
+    "prompt": "Hit the books",
+    "difficulty": "Medium-Hard",
+    "status": "Keep",
+    "actingHint": "Pretend to hit books, then study intensely"
+  },
+  {
+    "id": "id&-013",
+    "category": "Idioms & Phrases",
+    "prompt": "Beat around the bush",
+    "difficulty": "Hard",
+    "status": "Keep",
+    "actingHint": "Walk circles around bush, avoid the point"
+  },
+  {
+    "id": "id&-014",
+    "category": "Idioms & Phrases",
+    "prompt": "Don't cry over spilled milk",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Spill milk, cry, then wave it off"
   },
   {
     "id": "we&-001",
     "category": "Weather & Nature",
-    "prompt": "Sudden Mumbai Monsoon Downpour",
-    "difficulty": "Medium-Hard",
-    "status": "Keep"
+    "prompt": "Thunderstorm",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Lightning flash, thunder shock, heavy rain"
   },
   {
     "id": "we&-002",
     "category": "Weather & Nature",
-    "prompt": "45 Degree Delhi Summer heatwave",
+    "prompt": "Tornado",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Spin violently, suck up objects, wobble"
   },
   {
     "id": "we&-003",
     "category": "Weather & Nature",
-    "prompt": "Catching falling autumn leaves",
+    "prompt": "Avalanche",
+    "difficulty": "Medium-Hard",
+    "status": "Keep",
+    "actingHint": "Climb mountain, huge snow rush, run/duck"
+  },
+  {
+    "id": "we&-004",
+    "category": "Weather & Nature",
+    "prompt": "Northern Lights",
+    "difficulty": "Hard",
+    "status": "Keep",
+    "actingHint": "Look skyward, wave colorful ribbons with arms"
+  },
+  {
+    "id": "we&-005",
+    "category": "Weather & Nature",
+    "prompt": "Solar Eclipse",
+    "difficulty": "Hard",
+    "status": "Keep",
+    "actingHint": "Show sun, moon moving in front, darkness"
+  },
+  {
+    "id": "we&-006",
+    "category": "Weather & Nature",
+    "prompt": "Meteor Shower",
+    "difficulty": "Medium-Hard",
+    "status": "Keep",
+    "actingHint": "Look upward, point at many falling streaks"
+  },
+  {
+    "id": "we&-007",
+    "category": "Weather & Nature",
+    "prompt": "Blizzard",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Fight strong wind, shield face, snow everywhere"
+  },
+  {
+    "id": "we&-008",
+    "category": "Weather & Nature",
+    "prompt": "Earthquake",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Ground shakes, balance, furniture wobble"
+  },
+  {
+    "id": "we&-009",
+    "category": "Weather & Nature",
+    "prompt": "Volcano Erupting",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Mountain shape, pressure builds, lava bursts out"
+  },
+  {
+    "id": "we&-010",
+    "category": "Weather & Nature",
+    "prompt": "Tsunami",
+    "difficulty": "Medium-Hard",
+    "status": "Keep",
+    "actingHint": "Small wave becomes giant, run inland"
+  },
+  {
+    "id": "we&-011",
+    "category": "Weather & Nature",
+    "prompt": "Rainbow After Rain",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Rain gesture, then draw large arc in sky"
+  },
+  {
+    "id": "we&-012",
+    "category": "Weather & Nature",
+    "prompt": "Black Ice",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Walk normally, sudden invisible slip"
+  },
+  {
+    "id": "we&-013",
+    "category": "Weather & Nature",
+    "prompt": "Heat Wave",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Fan self, wipe sweat, sun blazing"
+  },
+  {
+    "id": "we&-014",
+    "category": "Weather & Nature",
+    "prompt": "Hailstorm",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Tiny ice hitting head/car, cover yourself"
   },
   {
     "id": "of&-001",
     "category": "Office & School Life",
-    "prompt": "You are on mute in Zoom meeting",
+    "prompt": "Printer Jam",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Print, paper stops, open tray, pull crumpled sheet"
   },
   {
     "id": "of&-002",
     "category": "Office & School Life",
-    "prompt": "Teacher enters classroom during paper plane fight",
-    "difficulty": "Medium-Hard",
-    "status": "Keep"
+    "prompt": "Teacher Erasing the Board",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Write, turn, erase everything vigorously"
   },
   {
     "id": "of&-003",
     "category": "Office & School Life",
-    "prompt": "Sneaking homework answers during test",
-    "difficulty": "Medium-Hard",
-    "status": "Keep"
+    "prompt": "Student Copying Homework at the Last Minute",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Borrow notebook, write furiously, watch clock"
   },
   {
     "id": "of&-004",
     "category": "Office & School Life",
-    "prompt": "Coffee spilled on keyboard before deadline",
+    "prompt": "Boss Walking Past Your Desk",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Relaxing, suddenly type intensely, sit straight"
+  },
+  {
+    "id": "of&-005",
+    "category": "Office & School Life",
+    "prompt": "PowerPoint Not Advancing",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Click remote repeatedly, look at screen, panic"
+  },
+  {
+    "id": "of&-006",
+    "category": "Office & School Life",
+    "prompt": "Video Call on Mute",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Talk passionately, people point to mute icon, realize"
+  },
+  {
+    "id": "of&-007",
+    "category": "Office & School Life",
+    "prompt": "Coffee Spill on Important Papers",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Carry cup, spill, panic, blot papers"
+  },
+  {
+    "id": "of&-008",
+    "category": "Office & School Life",
+    "prompt": "Falling Asleep in a Meeting",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Nod off, jerk awake, pretend to take notes"
+  },
+  {
+    "id": "of&-009",
+    "category": "Office & School Life",
+    "prompt": "Forgotten School Assignment",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Open bag, search, remember suddenly, panic"
+  },
+  {
+    "id": "of&-010",
+    "category": "Office & School Life",
+    "prompt": "Group Project with One Person Doing Everything",
+    "difficulty": "Medium-Hard",
+    "status": "Keep",
+    "actingHint": "Work nonstop, point at others relaxing"
+  },
+  {
+    "id": "of&-011",
+    "category": "Office & School Life",
+    "prompt": "Whiteboard Marker Has Dried Out",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Write, nothing appears, shake marker, scribble repeatedly"
+  },
+  {
+    "id": "of&-012",
+    "category": "Office & School Life",
+    "prompt": "Office Chair Slowly Sinking",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Sit tall, gradually sink lower, keep adjusting lever"
+  },
+  {
+    "id": "of&-013",
+    "category": "Office & School Life",
+    "prompt": "School Bell Rings During Test",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Write fast, bell rings, beg for more time"
+  },
+  {
+    "id": "of&-014",
+    "category": "Office & School Life",
+    "prompt": "Email Sent to the Wrong Person",
+    "difficulty": "Medium-Hard",
+    "status": "Keep",
+    "actingHint": "Type, click send, realize mistake, panic"
   },
   {
     "id": "ce&-001",
     "category": "Celebrations & Holidays",
-    "prompt": "Diwali Rocket firecracker flying sideways",
-    "difficulty": "Medium-Hard",
-    "status": "Keep"
+    "prompt": "Diwali Diyas",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Light small lamps, arrange rows, admire glow"
   },
   {
     "id": "ce&-002",
     "category": "Celebrations & Holidays",
-    "prompt": "Holi water balloon direct hit",
+    "prompt": "Holi Color Fight",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Throw colors, shield face, chase friends"
   },
   {
     "id": "ce&-003",
     "category": "Celebrations & Holidays",
-    "prompt": "Blowing out birthday candles that won't go out",
+    "prompt": "Birthday Candle That Won't Blow Out",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Blow repeatedly, candle relights, frustration"
   },
   {
     "id": "ce&-004",
     "category": "Celebrations & Holidays",
-    "prompt": "New Year countdown celebration",
+    "prompt": "New Year's Countdown",
     "difficulty": "Medium",
-    "status": "Keep"
+    "status": "Keep",
+    "actingHint": "Count backward with fingers, cheer at midnight"
+  },
+  {
+    "id": "ce&-005",
+    "category": "Celebrations & Holidays",
+    "prompt": "Wrapping a Difficult Gift",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Paper too small, tape sticks, odd shape"
+  },
+  {
+    "id": "ce&-006",
+    "category": "Celebrations & Holidays",
+    "prompt": "Opening a Surprise Gift",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Shake box, unwrap, shocked/happy reaction"
+  },
+  {
+    "id": "ce&-007",
+    "category": "Celebrations & Holidays",
+    "prompt": "Fireworks Show",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Light fuse, step back, explosions overhead"
+  },
+  {
+    "id": "ce&-008",
+    "category": "Celebrations & Holidays",
+    "prompt": "Christmas Tree Decorating",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Hang ornaments, untangle lights, place star"
+  },
+  {
+    "id": "ce&-009",
+    "category": "Celebrations & Holidays",
+    "prompt": "Easter Egg Hunt",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Search around, spot egg, collect in basket"
+  },
+  {
+    "id": "ce&-010",
+    "category": "Celebrations & Holidays",
+    "prompt": "Raksha Bandhan",
+    "difficulty": "Medium-Hard",
+    "status": "Keep",
+    "actingHint": "Tie rakhi, apply tilak, exchange gift"
+  },
+  {
+    "id": "ce&-011",
+    "category": "Celebrations & Holidays",
+    "prompt": "Karwa Chauth Moon Sighting",
+    "difficulty": "Medium-Hard",
+    "status": "Keep",
+    "actingHint": "Look through sieve, find moon, ceremonial gesture"
+  },
+  {
+    "id": "ce&-012",
+    "category": "Celebrations & Holidays",
+    "prompt": "Garba Night",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Circular dance, clap rhythm, festive outfit gesture"
+  },
+  {
+    "id": "ce&-013",
+    "category": "Celebrations & Holidays",
+    "prompt": "Birthday Cake Cutting While Everyone Takes Photos",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Hold knife, pause repeatedly for photos, smile"
+  },
+  {
+    "id": "ce&-014",
+    "category": "Celebrations & Holidays",
+    "prompt": "Party Balloon That Keeps Escaping",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Try to hold balloon, it flies up, jump to catch"
+  },
+  {
+    "id": "fusi-080",
+    "category": "Funny Situations",
+    "prompt": "Making chai while talking on the phone and watching TV",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Holding phone with shoulder, watching TV, stirring boiling tea, milk overflowing panic"
+  },
+  {
+    "id": "fogr-055",
+    "category": "Food, Grocery & Kitchen Items",
+    "prompt": "Trying to make a perfectly round roti",
+    "difficulty": "Medium-Hard",
+    "status": "Keep",
+    "actingHint": "Rolling pin motions, turning dough, lifting map-shaped roti, reshaping with frustration"
+  },
+  {
+    "id": "fusi-081",
+    "category": "Funny Situations",
+    "prompt": "Unexpected relatives arrive and everyone rushes to clean",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Doorbell rings, instant panic, stuffing cushions/clothes under bed, wide fake welcome smile"
+  },
+  {
+    "id": "fusi-082",
+    "category": "Funny Situations",
+    "prompt": "Power cut and searching for candles / phone torch",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Sudden darkness, blind stumbling, waving arms, hunting for matches, phone flashlight on face"
+  },
+  {
+    "id": "fusi-083",
+    "category": "Funny Situations",
+    "prompt": "Bargaining with a vegetable vendor",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Picking vegetables, tapping melons, dramatic shock at price, walking away slowly, called back"
+  },
+  {
+    "id": "fogr-056",
+    "category": "Food, Grocery & Kitchen Items",
+    "prompt": "Eating pani puri without spilling",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Catching puri in hand, opening mouth wide, swallowing whole, juice dripping, wiping chin"
+  },
+  {
+    "id": "inwe-020",
+    "category": "Indian Weddings & Family",
+    "prompt": "Trying to drape a saree",
+    "difficulty": "Medium-Hard",
+    "status": "Keep",
+    "actingHint": "Tucking pleats, measuring pallu, pinning safety pin, walking stiffly to test balance"
+  },
+  {
+    "id": "ce&-015",
+    "category": "Celebrations & Holidays",
+    "prompt": "Family aarti interrupted by a phone/sneeze",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Holding aarti thali in circles, sudden loud ringtone/sneeze, trying to maintain devotion"
+  },
+  {
+    "id": "fusi-084",
+    "category": "Funny Situations",
+    "prompt": "Fighting over the TV remote during cricket/serial",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Lunging for remote under sofa cushion, wrestling hands, changing channel back and forth"
+  },
+  {
+    "id": "tr&-020",
+    "category": "Travel & Airport",
+    "prompt": "Packing far too much luggage for a family trip",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Stuffing giant suitcase, jumping on top to compress clothes, zipper straining"
+  },
+  {
+    "id": "tr&-021",
+    "category": "Travel & Airport",
+    "prompt": "Sitting on a suitcase to close it",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Bouncing weight on suitcase, desperately pulling stuck zipper with both hands"
+  },
+  {
+    "id": "tr&-022",
+    "category": "Travel & Airport",
+    "prompt": "Running to catch the last bus / train",
+    "difficulty": "Medium-Hard",
+    "status": "Keep",
+    "actingHint": "Sprinting with heavy bags, waving frantically at driver, lunging through closing doors"
+  },
+  {
+    "id": "fogr-057",
+    "category": "Food, Grocery & Kitchen Items",
+    "prompt": "Making filter coffee",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Pouring coffee froth back and forth between two stainless steel tumblers in long arc"
+  },
+  {
+    "id": "fogr-058",
+    "category": "Food, Grocery & Kitchen Items",
+    "prompt": "Making dosa",
+    "difficulty": "Medium-Hard",
+    "status": "Keep",
+    "actingHint": "Pouring batter on tawa, swirling with ladle in spiral, flipping crispy thin crepe"
+  },
+  {
+    "id": "fogr-059",
+    "category": "Food, Grocery & Kitchen Items",
+    "prompt": "Serving a large family thali",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Carrying giant plate with 8 bowls, balancing carefully, serving hot rotis around table"
+  },
+  {
+    "id": "bomo-001",
+    "category": "Bollywood Movies",
+    "prompt": "Sholay",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Two friends motorcycle pose, Gabbar laugh, dancing on broken glass"
+  },
+  {
+    "id": "bomo-002",
+    "category": "Bollywood Movies",
+    "prompt": "Dilwale Dulhania Le Jayenge",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Arms wide SRK pose, running in mustard fields, catching hands on train"
+  },
+  {
+    "id": "bomo-003",
+    "category": "Bollywood Movies",
+    "prompt": "3 Idiots",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Three friends salute, pants dropping dance, mechanical definition gesture"
+  },
+  {
+    "id": "bomo-004",
+    "category": "Bollywood Movies",
+    "prompt": "Kabhi Khushi Kabhie Gham",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Helicopter arrival running, touching mother's feet, Poo mirror checking"
+  },
+  {
+    "id": "bomo-005",
+    "category": "Bollywood Movies",
+    "prompt": "Hera Pheri",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Baburao round spectacles, double cross phone call, three men wrestling"
+  },
+  {
+    "id": "bomo-006",
+    "category": "Bollywood Movies",
+    "prompt": "Golmaal",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Lucky mute character gestures, four friends running, comedy chaos"
+  },
+  {
+    "id": "bomo-007",
+    "category": "Bollywood Movies",
+    "prompt": "Dangal",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Wrestling stance, whistle blowing coach, gold medal podium pose"
+  },
+  {
+    "id": "bomo-008",
+    "category": "Bollywood Movies",
+    "prompt": "Lagaan",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Dhoti adjustment, spinning cricket ball bowling, rain clouds prayer"
+  },
+  {
+    "id": "bomo-009",
+    "category": "Bollywood Movies",
+    "prompt": "Chennai Express",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Lungi dance hand spin, South Indian train ride, carrying heroine up stairs"
+  },
+  {
+    "id": "bomo-010",
+    "category": "Bollywood Movies",
+    "prompt": "Bajrangi Bhaijaan",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Hanuman gada pose, walking with mute girl, border crossing gesture"
+  },
+  {
+    "id": "bomo-011",
+    "category": "Bollywood Movies",
+    "prompt": "Andaz Apna Apna",
+    "difficulty": "Medium-Hard",
+    "status": "Keep",
+    "actingHint": "Crime Master Gogo cape swirling, Amar and Prem arguing, teeli bujhana"
+  },
+  {
+    "id": "bomo-012",
+    "category": "Bollywood Movies",
+    "prompt": "Padosan",
+    "difficulty": "Medium-Hard",
+    "status": "Keep",
+    "actingHint": "Singing competition chewing paan, harmonium playing, ghost dance"
+  },
+  {
+    "id": "bomo-013",
+    "category": "Bollywood Movies",
+    "prompt": "Munna Bhai M.B.B.S.",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Doctor coat over bhai shirt, Jaadu Ki Jhappi tight hug, carrom board trick"
+  },
+  {
+    "id": "bomo-014",
+    "category": "Bollywood Movies",
+    "prompt": "Queen",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Awkward solo bride travel, Paris Eiffel selfie, London Thumakda dance"
+  },
+  {
+    "id": "bomo-015",
+    "category": "Bollywood Movies",
+    "prompt": "Zindagi Na Milegi Dobara",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Tomatina tomato throwing, skydiving spread arms, scuba breathing mask"
+  },
+  {
+    "id": "bomo-016",
+    "category": "Bollywood Movies",
+    "prompt": "Gully Boy",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Hoodie over head, rap microphone beatboxing, Apna Time Aayega hand gesture"
+  },
+  {
+    "id": "bomo-017",
+    "category": "Bollywood Movies",
+    "prompt": "Om Shanti Om",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Disco chandelier swinging, retro SRK salute, vintage 70s dancing"
+  },
+  {
+    "id": "bomo-018",
+    "category": "Bollywood Movies",
+    "prompt": "Don",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Police badge dodging, sunglasses adjustment, 11 countries police gesture"
+  },
+  {
+    "id": "bomo-019",
+    "category": "Bollywood Movies",
+    "prompt": "Jab We Met",
+    "difficulty": "Medium",
+    "status": "Keep",
+    "actingHint": "Geet talking nonstop, running to catch train in salwar, burning ex-boyfriend photo"
+  },
+  {
+    "id": "bomo-020",
+    "category": "Bollywood Movies",
+    "prompt": "Deewaar",
+    "difficulty": "Medium-Hard",
+    "status": "Keep",
+    "actingHint": "Hands in dockworker pockets, temple bell confrontation, building confrontation"
   }
 ]

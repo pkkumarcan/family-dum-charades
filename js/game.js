@@ -22,7 +22,8 @@ const CATEGORY_ICONS = {
   "Idioms & Phrases": "🗣️",
   "Weather & Nature": "⛈️",
   "Office & School Life": "🎒",
-  "Celebrations & Holidays": "🎉"
+  "Celebrations & Holidays": "🎉",
+  "Bollywood Movies": "🍿"
 };
 
 class GameEngine {
