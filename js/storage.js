@@ -13,7 +13,8 @@ const DEFAULT_SETTINGS = {
   actingTimerSeconds: 60,
   soundEnabled: true,
   vibrationEnabled: true,
-  skippedPromptsCanReturn: false
+  skippedPromptsCanReturn: false,
+  showVisualHints: true
 };
 
 const DEFAULT_PERSISTED_STATE = {

@@ -47,7 +47,8 @@ class GameEngine {
         actingTimerSeconds: 60,
         soundEnabled: true,
         vibrationEnabled: true,
-        skippedPromptsCanReturn: false
+        skippedPromptsCanReturn: false,
+        showVisualHints: true
       },
 
       sessionStats: {
@@ -103,13 +104,20 @@ class GameEngine {
 
       rawData.forEach((item, index) => {
         if (item && typeof item === 'object' && item.id && item.prompt && item.category) {
-          this.prompts.push({
+          const record = {
             id: String(item.id).trim(),
             category: String(item.category).trim(),
             prompt: String(item.prompt).trim(),
             difficulty: item.difficulty ? String(item.difficulty).trim() : 'Medium',
             status: item.status ? String(item.status).trim() : 'Keep'
-          });
+          };
+          if (item.image) {
+            record.image = String(item.image).trim();
+          }
+          if (item.actingHint) {
+            record.actingHint = String(item.actingHint).trim();
+          }
+          this.prompts.push(record);
         } else {
           skippedCount++;
         }

@@ -71,6 +71,8 @@ class AppController {
     this.revealedCatName = document.getElementById('revealed-cat-name');
     this.revealedPromptText = document.getElementById('revealed-prompt-text');
     this.revealedDiff = document.getElementById('revealed-diff-badge');
+    this.revealedImage = document.getElementById('revealed-image');
+    this.revealedImageWrapper = document.getElementById('revealed-image-wrapper');
 
     // Preparation Elements
     this.prepPromptText = document.getElementById('prep-prompt-text');
@@ -78,6 +80,8 @@ class AppController {
     this.prepCatName = document.getElementById('prep-cat-name');
     this.prepTimerNumber = document.getElementById('prep-timer-number');
     this.prepCircleProgress = document.getElementById('prep-circle-progress');
+    this.prepImage = document.getElementById('prep-image');
+    this.prepImageWrapper = document.getElementById('prep-image-wrapper');
 
     // Acting Elements
     this.actingTimerText = document.getElementById('acting-timer-text');
@@ -87,6 +91,8 @@ class AppController {
     this.peekCatIcon = document.getElementById('peek-cat-icon');
     this.peekCatName = document.getElementById('peek-cat-name');
     this.peekPromptText = document.getElementById('peek-prompt-text');
+    this.peekImage = document.getElementById('peek-image');
+    this.peekImageWrapper = document.getElementById('peek-image-wrapper');
 
     // Handoff Stats
     this.handoffPlayed = document.getElementById('handoff-played');
@@ -480,6 +486,19 @@ class AppController {
     if (this.revealedPromptText) this.revealedPromptText.textContent = prompt.prompt;
     if (this.revealedDiff) this.revealedDiff.textContent = prompt.difficulty;
 
+    // Visual Hint handling
+    const showVisual = window.GameEngine.state.settings.showVisualHints !== false;
+    if (prompt.image && showVisual) {
+      if (this.revealedImage) {
+        this.revealedImage.src = prompt.image;
+        this.revealedImage.alt = prompt.prompt;
+      }
+      if (this.revealedImageWrapper) this.revealedImageWrapper.style.display = 'flex';
+    } else {
+      if (this.revealedImage) this.revealedImage.src = '';
+      if (this.revealedImageWrapper) this.revealedImageWrapper.style.display = 'none';
+    }
+
     if (this.privacyShield) this.privacyShield.style.display = 'none';
     if (this.revealedPrompt) this.revealedPrompt.style.display = 'flex';
   }
@@ -495,6 +514,19 @@ class AppController {
     if (this.prepPromptText) this.prepPromptText.textContent = prompt.prompt;
     if (this.prepCatIcon) this.prepCatIcon.textContent = window.GameEngine.getCategoryIcon(prompt.category);
     if (this.prepCatName) this.prepCatName.textContent = prompt.category;
+
+    // Visual hint in preparation
+    const showVisual = window.GameEngine.state.settings.showVisualHints !== false;
+    if (prompt.image && showVisual) {
+      if (this.prepImage) {
+        this.prepImage.src = prompt.image;
+        this.prepImage.alt = prompt.prompt;
+      }
+      if (this.prepImageWrapper) this.prepImageWrapper.style.display = 'flex';
+    } else {
+      if (this.prepImage) this.prepImage.src = '';
+      if (this.prepImageWrapper) this.prepImageWrapper.style.display = 'none';
+    }
 
     this.updatePrepTimerUI();
     this.showScreen('screen-preparation');
@@ -550,9 +582,13 @@ class AppController {
     this.totalActingTime = settings.actingTimerSeconds || 60;
     this.actingSecondsRemaining = this.totalActingTime;
 
-    // Strict DOM privacy: clear prompt text from previous views
+    // Strict DOM privacy: clear prompt text and image from previous views
     if (this.prepPromptText) this.prepPromptText.textContent = '';
     if (this.revealedPromptText) this.revealedPromptText.textContent = '';
+    if (this.prepImage) this.prepImage.src = '';
+    if (this.prepImageWrapper) this.prepImageWrapper.style.display = 'none';
+    if (this.revealedImage) this.revealedImage.src = '';
+    if (this.revealedImageWrapper) this.revealedImageWrapper.style.display = 'none';
 
     this.updateActingTimerUI();
     this.showScreen('screen-acting');
@@ -606,6 +642,18 @@ class AppController {
     if (this.peekCatName) this.peekCatName.textContent = prompt.category;
     if (this.peekPromptText) this.peekPromptText.textContent = prompt.prompt;
 
+    const showVisual = window.GameEngine.state.settings.showVisualHints !== false;
+    if (prompt.image && showVisual) {
+      if (this.peekImage) {
+        this.peekImage.src = prompt.image;
+        this.peekImage.alt = prompt.prompt;
+      }
+      if (this.peekImageWrapper) this.peekImageWrapper.style.display = 'flex';
+    } else {
+      if (this.peekImage) this.peekImage.src = '';
+      if (this.peekImageWrapper) this.peekImageWrapper.style.display = 'none';
+    }
+
     this.peekModal.classList.add('active');
   }
 
@@ -613,6 +661,8 @@ class AppController {
     if (this.peekModal) {
       this.peekModal.classList.remove('active');
       if (this.peekPromptText) this.peekPromptText.textContent = '';
+      if (this.peekImage) this.peekImage.src = '';
+      if (this.peekImageWrapper) this.peekImageWrapper.style.display = 'none';
     }
   }
 
@@ -633,6 +683,15 @@ class AppController {
     if (this.revealedPromptText) this.revealedPromptText.textContent = '';
     if (this.prepPromptText) this.prepPromptText.textContent = '';
     if (this.peekPromptText) this.peekPromptText.textContent = '';
+
+    if (this.revealedImage) this.revealedImage.src = '';
+    if (this.revealedImageWrapper) this.revealedImageWrapper.style.display = 'none';
+
+    if (this.prepImage) this.prepImage.src = '';
+    if (this.prepImageWrapper) this.prepImageWrapper.style.display = 'none';
+
+    if (this.peekImage) this.peekImage.src = '';
+    if (this.peekImageWrapper) this.peekImageWrapper.style.display = 'none';
   }
 
   openModal(type) {
@@ -661,6 +720,7 @@ class AppController {
     const selActing = document.getElementById('setting-acting-time');
     const togSound = document.getElementById('setting-sound');
     const togVibe = document.getElementById('setting-vibration');
+    const togVisual = document.getElementById('setting-visual-hints');
     const togSkipReturn = document.getElementById('setting-skip-return');
 
     selPrep?.addEventListener('change', (e) => {
@@ -680,6 +740,11 @@ class AppController {
 
     togVibe?.addEventListener('change', (e) => {
       window.GameEngine.state.settings.vibrationEnabled = e.target.checked;
+      window.GameEngine.persistState();
+    });
+
+    togVisual?.addEventListener('change', (e) => {
+      window.GameEngine.state.settings.showVisualHints = e.target.checked;
       window.GameEngine.persistState();
     });
 
@@ -724,12 +789,14 @@ class AppController {
     const selActing = document.getElementById('setting-acting-time');
     const togSound = document.getElementById('setting-sound');
     const togVibe = document.getElementById('setting-vibration');
+    const togVisual = document.getElementById('setting-visual-hints');
     const togSkipReturn = document.getElementById('setting-skip-return');
 
     if (selPrep) selPrep.value = settings.prepTimerSeconds.toString();
     if (selActing) selActing.value = settings.actingTimerSeconds.toString();
     if (togSound) togSound.checked = settings.soundEnabled;
     if (togVibe) togVibe.checked = settings.vibrationEnabled;
+    if (togVisual) togVisual.checked = settings.showVisualHints !== false;
     if (togSkipReturn) togSkipReturn.checked = settings.skippedPromptsCanReturn;
   }
 

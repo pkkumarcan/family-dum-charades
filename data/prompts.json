@@ -477,7 +477,8 @@
     "prompt": "Slipping on snow or black ice",
     "difficulty": "Medium",
     "status": "Keep",
-    "actingHint": "Walking carefully, sudden skid, windmilling arms, recovering dignity"
+    "actingHint": "Walking carefully, sudden skid, windmilling arms, recovering dignity",
+    "image": "./images/black-ice.webp"
   },
   {
     "id": "fusi-061",
@@ -485,7 +486,8 @@
     "prompt": "Shoveling heavy snow from the driveway",
     "difficulty": "Medium",
     "status": "Keep",
-    "actingHint": "Lift heavy shovel, throw snow aside, backache, keep going"
+    "actingHint": "Lift heavy shovel, throw snow aside, backache, keep going",
+    "image": "./images/snow-shovel.webp"
   },
   {
     "id": "fusi-062",
@@ -589,7 +591,8 @@
     "prompt": "Using a leaf blower and blowing everything in the wrong direction",
     "difficulty": "Medium",
     "status": "Keep",
-    "actingHint": "Start blower, push leaves neatly, wind sends them back, chase them"
+    "actingHint": "Start blower, push leaves neatly, wind sends them back, chase them",
+    "image": "./images/leaf-blower.webp"
   },
   {
     "id": "fusi-075",
@@ -637,7 +640,8 @@
     "prompt": "Pressure Cooker",
     "difficulty": "Medium",
     "status": "Keep",
-    "actingHint": "Puffing cheeks, building up tension, making a sudden whistling/steam releasing gesture with head/arms"
+    "actingHint": "Puffing cheeks, building up tension, making a sudden whistling/steam releasing gesture with head/arms",
+    "image": "./images/pressure-cooker.webp"
   },
   {
     "id": "on&-002",
@@ -669,7 +673,8 @@
     "prompt": "Electric Mosquito Racket",
     "difficulty": "Medium",
     "status": "Keep",
-    "actingHint": "Swinging racket in the air, sudden electric zap flinch, inspecting dead bug with satisfaction"
+    "actingHint": "Swinging racket in the air, sudden electric zap flinch, inspecting dead bug with satisfaction",
+    "image": "./images/mosquito-racket.webp"
   },
   {
     "id": "on&-006",
@@ -677,7 +682,8 @@
     "prompt": "Alarm Clock",
     "difficulty": "Medium",
     "status": "Keep",
-    "actingHint": "Loud bell ringing gesture, vibrating body violently, getting smashed on the head by hand to snooze"
+    "actingHint": "Loud bell ringing gesture, vibrating body violently, getting smashed on the head by hand to snooze",
+    "image": "./images/alarm-clock.webp"
   },
   {
     "id": "on&-007",
@@ -717,7 +723,8 @@
     "prompt": "Selfie Stick",
     "difficulty": "Medium",
     "status": "Keep",
-    "actingHint": "Extending arm out rigidly like a telescoping pole, phone tilting, making exaggerated duck faces"
+    "actingHint": "Extending arm out rigidly like a telescoping pole, phone tilting, making exaggerated duck faces",
+    "image": "./images/selfie-stick.webp"
   },
   {
     "id": "on&-012",
@@ -733,7 +740,8 @@
     "prompt": "Windshield Wiper",
     "difficulty": "Medium",
     "status": "Keep",
-    "actingHint": "Moving arms back and forth in sync, changing speeds from slow to frantic during heavy downpour"
+    "actingHint": "Moving arms back and forth in sync, changing speeds from slow to frantic during heavy downpour",
+    "image": "./images/windshield-wiper.webp"
   },
   {
     "id": "on&-014",
@@ -773,7 +781,8 @@
     "prompt": "Sugarcane Juicing Machine (Ganne Ka Juice)",
     "difficulty": "Medium",
     "status": "Keep",
-    "actingHint": "Feeding long cane into imaginary mechanical rollers, spinning giant heavy flywheel, folding cane with mint/lemon and crushing repeatedly"
+    "actingHint": "Feeding long cane into imaginary mechanical rollers, spinning giant heavy flywheel, folding cane with mint/lemon and crushing repeatedly",
+    "image": "./images/sugarcane-machine.webp"
   },
   {
     "id": "on&-019",
@@ -829,7 +838,8 @@
     "prompt": "Gol Gappa / Pani Puri Eating Contest",
     "difficulty": "Medium",
     "status": "Keep",
-    "actingHint": "Opening mouth wide, swallowing whole crispy poori in one bite, eyes watering, eagerly holding bowl ready for the next round"
+    "actingHint": "Opening mouth wide, swallowing whole crispy poori in one bite, eyes watering, eagerly holding bowl ready for the next round",
+    "image": "./images/pani-puri.webp"
   },
   {
     "id": "on&-026",
@@ -845,7 +855,8 @@
     "prompt": "Making Samosas",
     "difficulty": "Medium",
     "status": "Keep",
-    "actingHint": "Rolling dough, slicing half-circle, folding into hollow cone, spooning spiced potato filling, sealing/crimping triangular edges, sliding gently into hot frying oil"
+    "actingHint": "Rolling dough, slicing half-circle, folding into hollow cone, spooning spiced potato filling, sealing/crimping triangular edges, sliding gently into hot frying oil",
+    "image": "./images/samosa.webp"
   },
   {
     "id": "on&-028",
@@ -885,7 +896,8 @@
     "prompt": "Pressure Cooker Gasket",
     "difficulty": "Hard",
     "status": "Keep",
-    "actingHint": "Stretching rubber ring, fitting into lid groove, checking seal, steam leak panic"
+    "actingHint": "Stretching rubber ring, fitting into lid groove, checking seal, steam leak panic",
+    "image": "./images/pressure-cooker.webp"
   },
   {
     "id": "on&-033",
@@ -917,7 +929,8 @@
     "prompt": "Rolling Pin / Belan",
     "difficulty": "Medium",
     "status": "Keep",
-    "actingHint": "Rolling dough, rotating it, realizing shape is crooked, aggressive correction, flour dusting"
+    "actingHint": "Rolling dough, rotating it, realizing shape is crooked, aggressive correction, flour dusting",
+    "image": "./images/rolling-pin.webp"
   },
   {
     "id": "on&-037",
@@ -1037,7 +1050,8 @@
     "prompt": "Snow Shovel",
     "difficulty": "Medium",
     "status": "Keep",
-    "actingHint": "Scoop heavy snow, lift, throw over shoulder, repeat"
+    "actingHint": "Scoop heavy snow, lift, throw over shoulder, repeat",
+    "image": "./images/snow-shovel.webp"
   },
   {
     "id": "on&-052",
@@ -1053,7 +1067,8 @@
     "prompt": "Snow Blower",
     "difficulty": "Medium-Hard",
     "status": "Keep",
-    "actingHint": "Push machine through snow, chute throws snow sideways"
+    "actingHint": "Push machine through snow, chute throws snow sideways",
+    "image": "./images/snow-blower.webp"
   },
   {
     "id": "on&-054",
@@ -1069,7 +1084,8 @@
     "prompt": "Leaf Blower",
     "difficulty": "Medium",
     "status": "Keep",
-    "actingHint": "Hold blower, blast leaves, fight wind, leaves scatter"
+    "actingHint": "Hold blower, blast leaves, fight wind, leaves scatter",
+    "image": "./images/leaf-blower.webp"
   },
   {
     "id": "on&-056",
@@ -1101,7 +1117,8 @@
     "prompt": "Ceiling Fan Regulator",
     "difficulty": "Medium-Hard",
     "status": "Keep",
-    "actingHint": "Turn knob slowly, fan speed changes, test each level"
+    "actingHint": "Turn knob slowly, fan speed changes, test each level",
+    "image": "./images/ceiling-fan.webp"
   },
   {
     "id": "on&-060",
@@ -1973,7 +1990,8 @@
     "prompt": "Coconut",
     "difficulty": "Medium",
     "status": "Keep",
-    "actingHint": "Shake coconut, crack hard shell, drink water, scrape flesh"
+    "actingHint": "Shake coconut, crack hard shell, drink water, scrape flesh",
+    "image": "./images/coconut-scraper.webp"
   },
   {
     "id": "fogr-017",
@@ -2061,7 +2079,8 @@
     "prompt": "Ice Tray",
     "difficulty": "Medium",
     "status": "Keep",
-    "actingHint": "Fill tiny compartments, carry carefully to freezer, twist tray, pop cubes"
+    "actingHint": "Fill tiny compartments, carry carefully to freezer, twist tray, pop cubes",
+    "image": "./images/ice-tray.webp"
   },
   {
     "id": "fogr-028",
@@ -2117,7 +2136,8 @@
     "prompt": "Rice Cooker",
     "difficulty": "Medium",
     "status": "Keep",
-    "actingHint": "Measure rice/water, close lid, press cook, wait, steam, fluff rice"
+    "actingHint": "Measure rice/water, close lid, press cook, wait, steam, fluff rice",
+    "image": "./images/rice-cooker.webp"
   },
   {
     "id": "fogr-035",
@@ -2125,7 +2145,8 @@
     "prompt": "Pressure Cooker Whistle",
     "difficulty": "Medium-Hard",
     "status": "Keep",
-    "actingHint": "Fit whistle/weight, steam builds, sudden whistle reaction"
+    "actingHint": "Fit whistle/weight, steam builds, sudden whistle reaction",
+    "image": "./images/pressure-cooker.webp"
   },
   {
     "id": "fogr-036",
@@ -2133,7 +2154,8 @@
     "prompt": "Rolling Pin / Belan (Rolling Roti)",
     "difficulty": "Medium",
     "status": "Keep",
-    "actingHint": "Roll dough, rotate roti, flour surface, correct uneven shape"
+    "actingHint": "Roll dough, rotate roti, flour surface, correct uneven shape",
+    "image": "./images/rolling-pin.webp"
   },
   {
     "id": "fogr-037",
@@ -2293,7 +2315,8 @@
     "prompt": "Eiffel Tower",
     "difficulty": "Medium",
     "status": "Keep",
-    "actingHint": "Form tower shape with arms, Paris romance/photo pose"
+    "actingHint": "Form tower shape with arms, Paris romance/photo pose",
+    "image": "./images/eiffel-tower.webp"
   },
   {
     "id": "fapl-003",
@@ -2301,7 +2324,8 @@
     "prompt": "Taj Mahal",
     "difficulty": "Medium",
     "status": "Keep",
-    "actingHint": "Dome shape, love/romance, royal monument pose"
+    "actingHint": "Dome shape, love/romance, royal monument pose",
+    "image": "./images/taj-mahal.webp"
   },
   {
     "id": "fapl-004",
@@ -2317,7 +2341,8 @@
     "prompt": "Statue of Liberty",
     "difficulty": "Medium",
     "status": "Keep",
-    "actingHint": "Hold torch high, crown gesture, stand still like statue"
+    "actingHint": "Hold torch high, crown gesture, stand still like statue",
+    "image": "./images/statue-of-liberty.webp"
   },
   {
     "id": "fapl-006",
@@ -2325,7 +2350,8 @@
     "prompt": "Niagara Falls",
     "difficulty": "Medium",
     "status": "Keep",
-    "actingHint": "Massive waterfall with arms, mist, boat/raincoat reaction"
+    "actingHint": "Massive waterfall with arms, mist, boat/raincoat reaction",
+    "image": "./images/niagara-falls.webp"
   },
   {
     "id": "fapl-007",
@@ -2333,7 +2359,8 @@
     "prompt": "Great Wall of China",
     "difficulty": "Medium-Hard",
     "status": "Keep",
-    "actingHint": "Build long wall, march along it, show enormous distance"
+    "actingHint": "Build long wall, march along it, show enormous distance",
+    "image": "./images/great-wall-china.webp"
   },
   {
     "id": "fapl-008",
@@ -2341,7 +2368,8 @@
     "prompt": "Leaning Tower of Pisa",
     "difficulty": "Medium",
     "status": "Keep",
-    "actingHint": "Stand like tower, slowly lean sideways without falling"
+    "actingHint": "Stand like tower, slowly lean sideways without falling",
+    "image": "./images/leaning-tower-pisa.webp"
   },
   {
     "id": "fapl-009",
@@ -2349,7 +2377,8 @@
     "prompt": "Golden Gate Bridge",
     "difficulty": "Medium-Hard",
     "status": "Keep",
-    "actingHint": "Create suspension bridge shape, cars crossing, windy bay"
+    "actingHint": "Create suspension bridge shape, cars crossing, windy bay",
+    "image": "./images/golden-gate-bridge.webp"
   },
   {
     "id": "fapl-010",
@@ -2365,7 +2394,8 @@
     "prompt": "Sydney Opera House",
     "difficulty": "Hard",
     "status": "Keep",
-    "actingHint": "Make sail-shaped roof with hands, singing/opera gesture"
+    "actingHint": "Make sail-shaped roof with hands, singing/opera gesture",
+    "image": "./images/sydney-opera-house.webp"
   },
   {
     "id": "fapl-012",
@@ -2373,7 +2403,8 @@
     "prompt": "Mount Everest",
     "difficulty": "Medium",
     "status": "Keep",
-    "actingHint": "Climb steep mountain, freezing, oxygen mask, summit flag"
+    "actingHint": "Climb steep mountain, freezing, oxygen mask, summit flag",
+    "image": "./images/mount-everest.webp"
   },
   {
     "id": "fapl-013",
@@ -2389,7 +2420,8 @@
     "prompt": "Colosseum",
     "difficulty": "Medium",
     "status": "Keep",
-    "actingHint": "Gladiator fight, giant arena, cheering crowd"
+    "actingHint": "Gladiator fight, giant arena, cheering crowd",
+    "image": "./images/colosseum.webp"
   },
   {
     "id": "fapl-015",
@@ -2397,7 +2429,8 @@
     "prompt": "Pyramids of Giza",
     "difficulty": "Medium",
     "status": "Keep",
-    "actingHint": "Form triangle/pyramid, desert heat, mummy/pharaoh clue"
+    "actingHint": "Form triangle/pyramid, desert heat, mummy/pharaoh clue",
+    "image": "./images/pyramids-giza.webp"
   },
   {
     "id": "fapl-016",
@@ -2405,7 +2438,8 @@
     "prompt": "Big Ben",
     "difficulty": "Medium",
     "status": "Keep",
-    "actingHint": "Tall clock tower, point to wrist/watch, bell striking"
+    "actingHint": "Tall clock tower, point to wrist/watch, bell striking",
+    "image": "./images/big-ben.webp"
   },
   {
     "id": "fapl-017",
@@ -2445,7 +2479,8 @@
     "prompt": "India Gate",
     "difficulty": "Medium-Hard",
     "status": "Keep",
-    "actingHint": "Make arch shape, salute/memorial, Delhi clue"
+    "actingHint": "Make arch shape, salute/memorial, Delhi clue",
+    "image": "./images/india-gate.webp"
   },
   {
     "id": "fapl-022",
@@ -2453,7 +2488,8 @@
     "prompt": "Gateway of India",
     "difficulty": "Medium-Hard",
     "status": "Keep",
-    "actingHint": "Large arch by water, boat arrival, Mumbai clue"
+    "actingHint": "Large arch by water, boat arrival, Mumbai clue",
+    "image": "./images/india-gate.webp"
   },
   {
     "id": "fapl-023",
@@ -3021,7 +3057,8 @@
     "prompt": "Bowling",
     "difficulty": "Medium",
     "status": "Keep",
-    "actingHint": "Heavy ball, run-up, roll, watch pins fall"
+    "actingHint": "Heavy ball, run-up, roll, watch pins fall",
+    "image": "./images/owl-turn.webp"
   },
   {
     "id": "sp&-008",
@@ -3037,7 +3074,8 @@
     "prompt": "Carrom",
     "difficulty": "Medium-Hard",
     "status": "Keep",
-    "actingHint": "Flick striker, aim coins, queen pocket, powder board"
+    "actingHint": "Flick striker, aim coins, queen pocket, powder board",
+    "image": "./images/carrom-queen.webp"
   },
   {
     "id": "sp&-010",
@@ -3277,7 +3315,8 @@
     "prompt": "Peacock Dancing",
     "difficulty": "Medium",
     "status": "Keep",
-    "actingHint": "Spread imaginary feathers, strut, shake tail"
+    "actingHint": "Spread imaginary feathers, strut, shake tail",
+    "image": "./images/dancing-peacock.webp"
   },
   {
     "id": "anwi-002",
@@ -3285,7 +3324,8 @@
     "prompt": "Monkey Stealing Food",
     "difficulty": "Medium",
     "status": "Keep",
-    "actingHint": "Sneak, grab snack, run away, eat while watching owner"
+    "actingHint": "Sneak, grab snack, run away, eat while watching owner",
+    "image": "./images/monkey-glasses.webp"
   },
   {
     "id": "anwi-003",
@@ -3325,7 +3365,8 @@
     "prompt": "Penguin Walking",
     "difficulty": "Medium",
     "status": "Keep",
-    "actingHint": "Waddle stiffly, flap arms, slide on ice"
+    "actingHint": "Waddle stiffly, flap arms, slide on ice",
+    "image": "./images/penguin-slip.webp"
   },
   {
     "id": "anwi-008",
@@ -3365,7 +3406,8 @@
     "prompt": "Elephant Taking a Shower",
     "difficulty": "Medium",
     "status": "Keep",
-    "actingHint": "Use trunk as hose, spray water, flap ears"
+    "actingHint": "Use trunk as hose, spray water, flap ears",
+    "image": "./images/elephant-shower.webp"
   },
   {
     "id": "anwi-013",
@@ -3389,7 +3431,8 @@
     "prompt": "Flamingo Standing on One Leg",
     "difficulty": "Medium",
     "status": "Keep",
-    "actingHint": "Balance on one leg, long neck, elegant pose"
+    "actingHint": "Balance on one leg, long neck, elegant pose",
+    "image": "./images/flamingo-wind.webp"
   },
   {
     "id": "anwi-016",
@@ -3397,7 +3440,8 @@
     "prompt": "Sloth Moving Extremely Slowly",
     "difficulty": "Medium",
     "status": "Keep",
-    "actingHint": "Reach very slowly, yawn, hang lazily"
+    "actingHint": "Reach very slowly, yawn, hang lazily",
+    "image": "./images/sloth-race.webp"
   },
   {
     "id": "anwi-017",
@@ -3405,7 +3449,8 @@
     "prompt": "Kangaroo with a Baby",
     "difficulty": "Medium",
     "status": "Keep",
-    "actingHint": "Hop, show pouch, protect baby"
+    "actingHint": "Hop, show pouch, protect baby",
+    "image": "./images/kangaroo-boxing.webp"
   },
   {
     "id": "anwi-018",
@@ -3413,7 +3458,8 @@
     "prompt": "Chameleon Changing Color",
     "difficulty": "Medium-Hard",
     "status": "Keep",
-    "actingHint": "Crawl slowly, look around, blend into background"
+    "actingHint": "Crawl slowly, look around, blend into background",
+    "image": "./images/chameleon.webp"
   },
   {
     "id": "anwi-019",
@@ -3821,7 +3867,8 @@
     "prompt": "Black Ice",
     "difficulty": "Medium",
     "status": "Keep",
-    "actingHint": "Walk normally, sudden invisible slip"
+    "actingHint": "Walk normally, sudden invisible slip",
+    "image": "./images/black-ice.webp"
   },
   {
     "id": "we&-013",
@@ -3933,7 +3980,8 @@
     "prompt": "Office Chair Slowly Sinking",
     "difficulty": "Medium",
     "status": "Keep",
-    "actingHint": "Sit tall, gradually sink lower, keep adjusting lever"
+    "actingHint": "Sit tall, gradually sink lower, keep adjusting lever",
+    "image": "./images/owl-turn.webp"
   },
   {
     "id": "of&-013",
@@ -3957,7 +4005,8 @@
     "prompt": "Diwali Diyas",
     "difficulty": "Medium",
     "status": "Keep",
-    "actingHint": "Light small lamps, arrange rows, admire glow"
+    "actingHint": "Light small lamps, arrange rows, admire glow",
+    "image": "./images/diwali-rocket.webp"
   },
   {
     "id": "ce&-002",
@@ -4109,7 +4158,8 @@
     "prompt": "Eating pani puri without spilling",
     "difficulty": "Medium",
     "status": "Keep",
-    "actingHint": "Catching puri in hand, opening mouth wide, swallowing whole, juice dripping, wiping chin"
+    "actingHint": "Catching puri in hand, opening mouth wide, swallowing whole, juice dripping, wiping chin",
+    "image": "./images/pani-puri.webp"
   },
   {
     "id": "inwe-020",
@@ -4165,7 +4215,8 @@
     "prompt": "Making filter coffee",
     "difficulty": "Medium",
     "status": "Keep",
-    "actingHint": "Pouring coffee froth back and forth between two stainless steel tumblers in long arc"
+    "actingHint": "Pouring coffee froth back and forth between two stainless steel tumblers in long arc",
+    "image": "./images/filter-coffee.webp"
   },
   {
     "id": "fogr-058",
@@ -4173,7 +4224,8 @@
     "prompt": "Making dosa",
     "difficulty": "Medium-Hard",
     "status": "Keep",
-    "actingHint": "Pouring batter on tawa, swirling with ladle in spiral, flipping crispy thin crepe"
+    "actingHint": "Pouring batter on tawa, swirling with ladle in spiral, flipping crispy thin crepe",
+    "image": "./images/dosa.webp"
   },
   {
     "id": "fogr-059",
@@ -4181,7 +4233,8 @@
     "prompt": "Serving a large family thali",
     "difficulty": "Medium",
     "status": "Keep",
-    "actingHint": "Carrying giant plate with 8 bowls, balancing carefully, serving hot rotis around table"
+    "actingHint": "Carrying giant plate with 8 bowls, balancing carefully, serving hot rotis around table",
+    "image": "./images/family-thali.webp"
   },
   {
     "id": "bomo-001",
@@ -4197,7 +4250,8 @@
     "prompt": "Dilwale Dulhania Le Jayenge",
     "difficulty": "Medium",
     "status": "Keep",
-    "actingHint": "Arms wide SRK pose, running in mustard fields, catching hands on train"
+    "actingHint": "Arms wide SRK pose, running in mustard fields, catching hands on train",
+    "image": "./images/dulha-ghodi.webp"
   },
   {
     "id": "bomo-003",
@@ -4277,7 +4331,8 @@
     "prompt": "Padosan",
     "difficulty": "Medium-Hard",
     "status": "Keep",
-    "actingHint": "Singing competition chewing paan, harmonium playing, ghost dance"
+    "actingHint": "Singing competition chewing paan, harmonium playing, ghost dance",
+    "image": "./images/dosa.webp"
   },
   {
     "id": "bomo-013",

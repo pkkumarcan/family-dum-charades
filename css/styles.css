@@ -567,6 +567,33 @@ input:checked + .toggle-slider:before {
   text-transform: uppercase;
 }
 
+/* Visual Hint Image Card */
+.prompt-image-wrapper {
+  margin-top: 6px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: var(--radius-md);
+  overflow: hidden;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.35);
+  border: 1px solid var(--border-active);
+  background: #0d1117;
+  animation: fadeInImage 0.25s ease forwards;
+}
+
+@keyframes fadeInImage {
+  from { opacity: 0; transform: scale(0.95); }
+  to { opacity: 1; transform: scale(1); }
+}
+
+.prompt-image {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  border-radius: calc(var(--radius-md) - 2px);
+  object-fit: contain;
+}
+
 /* Screen 3: Preparation Screen */
 .prep-stage {
   flex: 1;

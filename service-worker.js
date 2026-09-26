@@ -5,7 +5,7 @@
  * - Stale-While-Revalidate for data/prompts.json so prompt bank updates load seamlessly
  */
 
-const CACHE_NAME = 'dum-charades-v3';
+const CACHE_NAME = 'dum-charades-v4';
 
 const STATIC_ASSETS = [
   './',
@@ -70,6 +70,23 @@ self.addEventListener('fetch', (event) => {
 
           // Return cached immediately if present, otherwise wait for network
           return cachedResponse || fetchPromise;
+        });
+      })
+    );
+    return;
+  }
+
+  // Lazy-cache for visual hint images in /images/
+  if (url.pathname.includes('/images/')) {
+    event.respondWith(
+      caches.match(event.request).then((cachedResponse) => {
+        if (cachedResponse) return cachedResponse;
+        return fetch(event.request).then((networkResponse) => {
+          if (networkResponse && networkResponse.status === 200) {
+            const copy = networkResponse.clone();
+            caches.open(CACHE_NAME).then((cache) => cache.put(event.request, copy));
+          }
+          return networkResponse;
         });
       })
     );
