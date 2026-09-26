@@ -108,8 +108,15 @@ class AppController {
     // Close Modals
     document.getElementById('btn-close-settings')?.addEventListener('click', () => this.closeModal('settings'));
     document.getElementById('btn-close-history')?.addEventListener('click', () => this.closeModal('history'));
-    document.getElementById('btn-close-categories')?.addEventListener('click', () => this.closeModal('categories'));
-    document.getElementById('btn-apply-categories')?.addEventListener('click', () => this.closeModal('categories'));
+    // Category Modal Done / Close
+    document.getElementById('btn-close-categories')?.addEventListener('click', () => {
+      this.applyCategoryChecklistState();
+      this.closeModal('categories');
+    });
+    document.getElementById('btn-apply-categories')?.addEventListener('click', () => {
+      this.applyCategoryChecklistState();
+      this.closeModal('categories');
+    });
 
     // Category Modal Open
     document.getElementById('btn-open-categories')?.addEventListener('click', () => {
@@ -117,25 +124,26 @@ class AppController {
       this.openModal('categories');
     });
 
-    // Category Select All / Clear All
+    // Category Select All
     document.getElementById('btn-select-all-cats')?.addEventListener('click', () => {
-      window.GameEngine.state.selectedCategories = []; // [] represents All
-      window.GameEngine.persistState();
-      this.syncChecklistUI();
-      this.syncFilterUI();
-      this.updateStatsBar();
+      this.categoriesChecklist?.querySelectorAll('input[type="checkbox"]').forEach(cb => {
+        cb.checked = true;
+      });
+      this.categoriesChecklist?.querySelectorAll('.checklist-item').forEach(el => {
+        el.classList.add('checked');
+      });
+      this.applyCategoryChecklistState();
     });
 
+    // Category Clear All (unchecks all immediately so user can easily tap 1 or 2)
     document.getElementById('btn-clear-all-cats')?.addEventListener('click', () => {
-      // Clear all selects none; we select at least 1 or empty
-      const all = window.GameEngine.getAllCategories();
-      if (all.length > 0) {
-        window.GameEngine.state.selectedCategories = [all[0]]; // keep at least 1
-      }
-      window.GameEngine.persistState();
-      this.syncChecklistUI();
-      this.syncFilterUI();
-      this.updateStatsBar();
+      this.categoriesChecklist?.querySelectorAll('input[type="checkbox"]').forEach(cb => {
+        cb.checked = false;
+      });
+      this.categoriesChecklist?.querySelectorAll('.checklist-item').forEach(el => {
+        el.classList.remove('checked');
+      });
+      this.applyCategoryChecklistState();
     });
 
     // Modal Background Click Closes
@@ -309,36 +317,66 @@ class AppController {
     const isAllSelected = selected.length === 0;
 
     categories.forEach(cat => {
-      const item = document.createElement('label');
-      item.className = 'checklist-item';
-      item.htmlFor = `chk-cat-${cat.replace(/\s+/g, '-')}`;
-
+      const item = document.createElement('div');
       const isChecked = isAllSelected || selected.includes(cat);
+      item.className = 'checklist-item' + (isChecked ? ' checked' : '');
+
+      const safeId = `chk-cat-${cat.replace(/[^a-zA-Z0-9]/g, '-')}`;
 
       item.innerHTML = `
         <div class="checklist-item-left">
           <span class="checklist-item-icon">${window.GameEngine.getCategoryIcon(cat)}</span>
           <span class="checklist-item-name">${cat}</span>
         </div>
-        <input type="checkbox" id="chk-cat-${cat.replace(/\s+/g, '-')}" value="${cat}" ${isChecked ? 'checked' : ''}>
+        <div class="checklist-item-right">
+          <button class="btn-only-category" type="button" aria-label="Select only ${cat}">Only</button>
+          <input type="checkbox" id="${safeId}" value="${cat}" ${isChecked ? 'checked' : ''}>
+        </div>
       `;
 
-      const input = item.querySelector('input');
-      input.addEventListener('change', () => {
-        this.onCategoryCheckboxChange();
+      const checkbox = item.querySelector('input[type="checkbox"]');
+      const onlyBtn = item.querySelector('.btn-only-category');
+
+      // Clicking row toggles checkbox (unless clicking "Only")
+      item.addEventListener('click', (e) => {
+        if (e.target === onlyBtn) return;
+        if (e.target !== checkbox) {
+          checkbox.checked = !checkbox.checked;
+        }
+        if (checkbox.checked) {
+          item.classList.add('checked');
+        } else {
+          item.classList.remove('checked');
+        }
+        this.applyCategoryChecklistState();
+      });
+
+      // Clicking "Only" selects ONLY this category
+      onlyBtn.addEventListener('click', (e) => {
+        e.stopPropagation();
+        this.categoriesChecklist.querySelectorAll('input[type="checkbox"]').forEach(cb => {
+          cb.checked = (cb.value === cat);
+        });
+        this.categoriesChecklist.querySelectorAll('.checklist-item').forEach(el => {
+          el.classList.remove('checked');
+        });
+        item.classList.add('checked');
+        this.applyCategoryChecklistState();
       });
 
       this.categoriesChecklist.appendChild(item);
     });
   }
 
-  onCategoryCheckboxChange() {
+  applyCategoryChecklistState() {
+    if (!this.categoriesChecklist) return;
     const checkboxes = this.categoriesChecklist.querySelectorAll('input[type="checkbox"]');
     const checked = Array.from(checkboxes).filter(cb => cb.checked).map(cb => cb.value);
     const all = window.GameEngine.getAllCategories();
 
+    // If 0 checked or all checked, treat as All Categories ([])
     if (checked.length === 0 || checked.length === all.length) {
-      window.GameEngine.state.selectedCategories = []; // All
+      window.GameEngine.state.selectedCategories = [];
     } else {
       window.GameEngine.state.selectedCategories = checked;
     }
@@ -353,7 +391,13 @@ class AppController {
     const isAllSelected = selected.length === 0;
 
     this.categoriesChecklist?.querySelectorAll('input[type="checkbox"]').forEach(cb => {
-      cb.checked = isAllSelected || selected.includes(cb.value);
+      const isChecked = isAllSelected || selected.includes(cb.value);
+      cb.checked = isChecked;
+      const row = cb.closest('.checklist-item');
+      if (row) {
+        if (isChecked) row.classList.add('checked');
+        else row.classList.remove('checked');
+      }
     });
   }
 

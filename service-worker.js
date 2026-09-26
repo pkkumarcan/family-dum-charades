@@ -5,7 +5,7 @@
  * - Stale-While-Revalidate for data/prompts.json so prompt bank updates load seamlessly
  */
 
-const CACHE_NAME = 'dum-charades-v2';
+const CACHE_NAME = 'dum-charades-v3';
 
 const STATIC_ASSETS = [
   './',
